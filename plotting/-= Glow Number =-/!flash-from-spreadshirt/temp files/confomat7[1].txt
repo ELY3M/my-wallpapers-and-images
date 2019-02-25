@@ -1,0 +1,363 @@
+basket._e0=Your cart is empty.
+basket._e1=Please select a size.
+basket._e2=Please select a color.
+basket._e3=Design your product.
+basket._e4=The amount you chose is over the quantity currently available.
+basket._e5=The product color you have selected is not available for this printing style for this product.
+basket._e6=The product selected is not currently available in this size and color.
+basket._e8=The product selected is not currently available in this size and color.
+basket._e9=The product selected is not currently available in this size and color.
+basket_section.btn_add_to_basket=Add to basket
+basket_section.btn_update_product=Update product
+basket_section.label_excl_shipping=plus shipping
+basket_section.label_incl_VAT=incl. tax 
+basket_section.label_incl_VAT_excl_shipping=incl. tax plus shipping
+basket_section.tooltip_add_to_basket=Place item into the shopping cart
+context.www.NO_FLASH_CONTENT=<div class="grid_10 alpha omega" id="no_flash">\
+    <div class="grid_6">\
+        <h1 class="font_size_5">Please Update your Flash Player</h1>\
+        <p>In order to use all of the functions in our T-Shirt Designer, you need to have the latest version of the Flash Player. </p>\
+        \
+        <a href="http://get.adobe.com/de/flashplayer/" target="_blank" id="download_flash_player" class="button prio1 large right gap_down">Download Flash Player Now</a>\
+        <hr class="dashed_bottom"> \
+        \
+        <h1 class="font_size_5">Continue to Spreadshirt Marketplace (No Flash Player Required)</h1>\
+        <p>Visit the Spreadshirt Marketplace where you will find custom t-shirts, hoodies, accessories and more – all designed by our designer community. </p>\
+        \
+        <div class="clear gap_down_medium">\
+            <a href="[[url/page/3376/article/4459467]]">\
+            	<img src="http://image.spreadshirt.com/image-server/image/product/4684863/view/1/type/png/width/130/height/130/awesome-shirt.png" class="border_solid offset_right" alt=""></a>\
+            <a href="[[url/page/3376/article/7140975]]">\
+            	<img src="http://image.spreadshirt.com/image-server/image/product/17809764/view/1/type/png/width/130/height/130/stop-wars.png" class="border_solid offset_right" alt=""></a>\
+            <a href="[[url/page/3376/article/4737757]]">\
+            	<img src="http://image.spreadshirt.com/image-server/image/product/4945550/view/1/type/png/width/130/height/130/ash-i-love-coffee-t-shirts.png" class="border_solid offset_right" alt=""></a>\
+            <a href="[[url/page/3376/article/5564531]]">      \
+            	<img src="http://image.spreadshirt.com/image-server/image/product/15840980/view/1/type/png/width/130/height/130/basketball.png" class="border_solid" alt=""></a>\
+        </div>\
+        \
+        <a href="[[url/page/3375]]" id="go_to_marketplace" class="button prio1 large right gap_down">Visit Spreadshirt’s Marketplace</a>\
+    </div>\
+</div>
+default_product_configuration.default_text=Write your text here
+design_gallery.designed_by=designed by&nbsp;
+design_gallery.label_design_subtopic=All sub-topics
+design_gallery.label_design_topic=All designs
+design_gallery.label_section_header=Choose a design
+design_gallery.price_from=from
+design_gallery.tooltip_design_subtopic=Select a sub-topic to filter your search results further.
+design_gallery.tooltip_design_topic=Select a topic to filter your search results.
+handles.delete=Delete
+handles.move=Move
+handles.resize_bounding_box=Edit text field width
+handles.resize_configuration=Scale
+handles.rotate=Rotate
+jump_start.label_section_header=
+main_navi.btn_add_text=Add Text
+main_navi.btn_history=History
+main_navi.btn_my_products=My Products
+main_navi.btn_new=New
+main_navi.btn_pick_product=Choose Product
+main_navi.btn_redo=Redo
+main_navi.btn_select_design=Choose Design
+main_navi.btn_undo=Undo
+main_navi.btn_upload_photos=Upload Photo
+main_navi.tooltip_add_text=Write text directly on the product. 
+main_navi.tooltip_history=See all actions you have done for this product.
+main_navi.tooltip_my_products=See all of the products you have saved. 
+main_navi.tooltip_new=New
+main_navi.tooltip_pick_product=Choose which product you want to create. 
+main_navi.tooltip_redo=Redo the previous action. 
+main_navi.tooltip_select_design=Choose a design that you want to add to a product.
+main_navi.tooltip_undo=Undo the previous action. 
+main_navi.tooltip_upload_photos=Upload a photo from your computer and create a product with it.
+messages_system.article_added_confirm=The product has been added to your cart. What would you like to do next?
+messages_system.basket_load_error=An error has occurred while loading your shopping cart.
+messages_system.basket_updated_confirm=You have updated the product in your shopping basket. What would you like to do next?
+messages_system.basket_updated_confirm_headline=Product updated
+messages_system.btn_article_added_confirm_create_a_new_one=Create another product
+messages_system.btn_article_added_confirm_got_to_checkout=Checkout
+messages_system.btn_basket_updated_confirm_go_to_checkout=Back to shopping basket
+messages_system.btn_basket_updated_create_a_new_one=Design more t-shirts
+messages_system.btn_confirm_start_new=Start over
+messages_system.can_not_remove_obligatory_design=
+messages_system.can_not_remove_obligatory_design=The design cannot be used because there is an obligatory design on this product which cannot be removed.
+messages_system.configuration_conflict__general=You have placed at least one element (design or text) on the product that we cannot print as seen. These elements have a red border around them. Please arrange them until the red border disappears. 
+messages_system.configuration_conflict_design_not_printable_on_product=Sorry, this design cannot be printed on this type of product. 
+messages_system.configuration_conflict_hard_boundaries=Note: you have placed at least one element (design or text) on your product which is outside of the available printing area. 
+messages_system.configuration_conflict_overlap=Note: some elements (design or text) overlap on this product. 
+messages_system.configuration_conflict_printsize=One of the designs is too large. Please reduce its size or chose a different product.
+messages_system.configuration_conflict_printtypes=Unfortunately you cannot print photos or other pixel graphic designs on this particular product. Please choose a different product (e.g. a white t-shirt).
+messages_system.configuration_conflict_soft_boundaries=Note: at least one element (design or text) is placed over a zipper (or other unprintable object). This element will be split at this point. 
+messages_system.configuration_not_feasible=Sorry, we cannot print this product yet, as it contains too many errors. You can see the errors indicated with exclamation marks. Please correct these mistakes first.
+messages_system.confirm_start_new=Do you really want to start over again? The product you are working on will be deleted.
+messages_system.conflict_buttons=The design is placed over a button.
+messages_system.conflict_fly=The design is placed over the fly.
+messages_system.conflict_layers=The design overlaps with another design causing too many layers.
+messages_system.conflict_overlap=The design is placed over another design.
+messages_system.conflict_pocket=The design is placed over a pocket.
+messages_system.conflict_printarea=The design is outside of the printing area.
+messages_system.conflict_printtypes=The design overlaps with a different printing technique.
+messages_system.conflict_scale_down=The image is too small. Please enlarge.
+messages_system.conflict_scale_down_pixel=\
+The quality of your pixel graphics file is too low for the desired design size. Please decrease the size of the design or upload it in a higher resolution.\
+
+messages_system.conflict_scale_down_text=The graphics file is too large to be printed. It cannot be bigger than 15 x15 in.\
+
+messages_system.conflict_scale_down_vector=The graphics file is too large to be printed. The maximum size for vector graphics is 15x15 in.\
+
+messages_system.conflict_scale_up=The image is too large. Please reduce size.
+messages_system.conflict_scale_up_pixel=The graphics file is too small to be printed. Please enlarge it.\
+
+messages_system.conflict_scale_up_text=The graphics file is too small to be printed. Please enlarge it.\
+
+messages_system.conflict_scale_up_vector=The graphics file is too small to be printed. Please enlarge it.\
+
+messages_system.conflict_scaling_bitmap=The photo/image cannot be scaled up due to quality reasons.
+messages_system.conflict_seam=The design is placed over a seam.
+messages_system.conflict_zipper=The design is placed over a zipper.
+messages_system.design_too_large_for_printarea=The design is too big to fit the printable area.
+messages_system.error_creating_product=A general error has occurred. It's so general that we can't exactly say was happened. Please reload the page. 
+messages_system.error_generic=A general error has occurred. It's so general that we can't exactly say was happened. Please reload the page. 
+messages_system.error_headline=Error
+messages_system.error_text_copyright=A part of the text is protected by copyright and cannot be used. 
+messages_system.error_text_law=
+messages_system.error_uploading_design=Your file could not be uploaded. Please try again.\
+
+messages_system.item_was_modified_headline=You changed your previous product
+messages_system.item_was_modified_text=Would you like to replace the previously designed product in your shopping \
+\
+basket or create a new product?
+messages_system.motive_has_a_fix_view=This design can only be added on specific product areas.
+messages_system.no_printtype_for_this_productcolor=You cannot use this design with this product colour.
+messages_system.no_search_result=Unfortunately, your search did not result in any hits. 
+messages_system.printarea_disallow_designs=A design cannot be placed in this area. \
+
+messages_system.productcolor_change_removes_design=There are designs which are not printable with this colour. They will be \
+\
+removed automatically if you select this colour.
+messages_system.PRODUCTTPYE_NOTICE_HEADLINE=Notice for this product
+messages_system.producttype_conflict_perspectives=Some designs could not be transferred to the new product because printing areas which were available on the previous product do not exist on the new product. The affected designs will be removed. 
+messages_system.producttype_conflict_printarea_size=Some printing areas on the selected product are too small to hold the current designs placed there. The affected designs will be removed. 
+messages_system.producttype_conflict_printtypes=Some designs on the selected product cannot be printed because the required printing techniques are not available for this product. The affected designs will be removed. 
+messages_system.PRODUCTTYPE_HAS_BUTTONS_AND_SEAMS=Please do not place your design over the buttons and/or pockets. These areas cannot be printed.
+messages_system.PRODUCTTYPE_HAS_BUTTON_FACING=Watch out for the buttons - we can't print on them. Please don't place your design over them.
+messages_system.PRODUCTTYPE_HAS_FEATURES=We cannot print on the entire product. This may be due to seams, pockets, zippers etc.
+messages_system.PRODUCTTYPE_HAS_FLY=Please do not place your design over the fly. This area cannot be printed.
+messages_system.PRODUCTTYPE_HAS_FRONT_POCKET=Please do not place your design over the seams and openings of the front pocket. These areas cannot be printed.
+messages_system.PRODUCTTYPE_HAS_SEAMS1=Please do not place your design on the seam. It cannot be printed there.
+messages_system.PRODUCTTYPE_HAS_USED_LOOK=Attention:  This fabric is made in the trendy „distressed look“ with outer seams and fashionable frayed cuffs.
+messages_system.PRODUCTTYPE_HAS_ZIPPER=Please take note of the zipper. Do not place a design over the zipper.
+messages_system.producttype_notice_headline=Note
+messages_system.product_already_in_basket=
+messages_system.product_already_in_basket_headline=
+messages_system.product_out_of_stock=Sorry, this product is out of stock.
+messages_system.product_view_has_no_printarea=This side of the product cannot be printed.
+messages_system.select_quantity=
+messages_system.select_quantity_headline=
+messages_system.select_size=If you are not sure which size to choose, click on the tape measure symbol on the bottom left. This will open the size chart. 
+messages_system.select_size_headline=Please choose a size
+messages_system.server_session_expired=Oops, your session has expired. It seems that you have been inactive for too long. Please reload the page.
+messages_system.success_headline=Item added successfully!
+messages_system.TEXT_CONTENT_ERROR_ARBITRARY=The text “[TEXT]” cannot be printed due to legal or ethical grounds. 
+messages_system.TEXT_CONTENT_ERROR_TASTE=The text “[TEXT]” does not meet our ethical standards and cannot be printed. 
+messages_system.text_not_changed=The example text is still on the shirt. Are you sure you want to use the example text on the shirt? 
+messages_system.view_not_configurable=This side of the product cannot be printed.
+preloader.hint_customisation_1=By the way: the higher the resolution (dpi) of your photo, the better it will look when printed on a shirt.
+preloader.hint_customisation_2=By the way: you can also design sleeves and hoods. 
+preloader.hint_customisation_3=By the way: we also have pants! (and more than 100 other products to choose from)
+preloader.hint_customisation_4=By the way: if you are not sure about the size, measure your favorite shirt and compare the measurements with our size chart.
+preloader.hint_customisation_5=By the way: less is more - text appears smaller in the preview as on the actual shirt.
+preloader.hint_customisation_6=By the way: choose our special flex printing for special effects like glitter, reflective, glow in the dark and more! 
+preloader.hint_customisation_7=By the way: thanks for stopping by! :)
+preloader.hint_payment_methods=Pay safely and simply: credit card, PayPal or check. 
+preloader.hint_spreadshirt_guarantee_quality=Spreadshirt guarantee: we print our products by hand and with high quality printing techniques. 
+preloader.hint_spreadshirt_guarantee_returns=Spreadshirt guarantee: if you are not satisfied with your order, simply contact our service team. We take (almost) everything back. 
+preloader.hint_spreadshirt_guarantee_service=Spreadshirt guarantee: our helpful service team is available for any questions about your order. 
+preloader.hint_spreadshirt_guarantee_speed=Spreadshirt guarantee: we produce your shirt within 24-48 business hours after order and payment.
+preloader.hint_trusted_shops=
+printtype_section.color_black=black
+printtype_section.color_bright_green=light green
+printtype_section.color_chocolate=chocolate
+printtype_section.color_crimson=crimson
+printtype_section.color_dark_red=dark red
+printtype_section.color_green=green
+printtype_section.color_light_blue=light blue
+printtype_section.color_magenta=magenta
+printtype_section.color_navy=navy
+printtype_section.color_orange=orange
+printtype_section.color_petrol=petrol
+printtype_section.color_pink=light pink
+printtype_section.color_purple=purple
+printtype_section.color_royal_blue=king's blue
+printtype_section.color_sand=sand
+printtype_section.color_silver_grey=silver grey
+printtype_section.color_sky_blue=sky blue
+printtype_section.color_sky_sunshine=yolk yellow
+printtype_section.color_sunshine=sunshine
+printtype_section.color_white=white
+printtype_section.color_yellow=yellow
+printtype_section.color_yellow_gold=gold
+printtype_section.label_cmyk_color_fader=CMYK color palette
+printtype_section.label_flex_print=smooth
+printtype_section.label_flock_print=velvety
+printtype_section.label_section_header=Design settings
+printtype_section.label_special_print=specialty
+printtype_section.printtype_section_current_color=Current color:
+printtype_section.tab_digital_print=Digital Printing
+printtype_section.tab_foil_print=Plot printing
+printtype_section.tooltip_digital_print=Printing technique for photos and designs with more than 3 colors or color gradients. 
+printtype_section.tooltip_foil_print=Extremely durable printing - colored foils are pressed directly on the fabric. For designs with maximum of 3 colors.  
+printtype_section.tooltip_max_font_size_reached=Maximum font size already reached. 
+printtype_section.tooltip_print_infos=
+printtype_section.tooltip_special_print=Specialty flex: smooth surface print with special effects like glitter, sparkle etc. 
+printtype_section.tootltip_flex_print=Flex printing: print with a smooth, somewhat shiny surface.  
+printtype_section.tootltip_flock_print=Flock printing: print with a light velvet, fuzzy surface.
+product_color_selector.btn_more_product_colors=Colors available
+product_color_selector.btn_more_product_colors_tooltip=Choose a color for the selected product. 
+product_color_selector.btn_more_product_colors_tooltip_unicolor=Sorry, this product is only available in this color. 
+product_gallery.label_department=Select Category
+product_gallery.label_producttype_category=Choose a producttype
+product_gallery.label_section_header=Choose a product
+product_gallery.tooltip_department=Choose a product for men, women, kids or babies, or an accessory.
+product_gallery.tooltip_producttype_category=Select a product type to filter your search results. 
+save_share.auth_no_saved_products=You haven't saved any products yet.
+save_share.bookmark=Bookmark
+save_share.email=E-Mail
+save_share.embed=Embed
+save_share.embed_html=HTML code
+save_share.embed_plain=Link to this product:
+save_share.embed_title=Personalized [PRODUCTTYPE_NAME]
+save_share.hint_userarea=Find your saved products [in your account].
+save_share.load_not_successful=This product doesn't exist any more.
+save_share.login=Login
+save_share.mail_adress_faulty=This e-mail address is invalid.
+save_share.mail_from=Sender (e-mail address)
+save_share.mail_message=Your message
+save_share.mail_notice=This message will contain a link and an image of your product.
+save_share.mail_recipient_count=This email will be sent to [x] recipients.
+save_share.mail_sending=Sending Mail
+save_share.mail_send_mail=Send
+save_share.mail_to=Recipient (e-mail address)
+save_share.mail_was_not_sent=Message could not be sent.
+save_share.mail_was_sent=Message was sent.
+save_share.no_auth_login_notice=Please log into your account in order to save products permanently.
+save_share.no_auth_no_saved_products=You don't have any saved products. Please log in if you have already saved products.
+save_share.open_popup=Open pop-up
+save_share.password=Password
+save_share.save=Save
+save_share.saved_products=My saved products
+save_share.save_not_successful=Product could not be saved.
+save_share.save_share=Save and Share
+save_share.save_successful=Product was saved.
+save_share.saving_in_progress=Product has been saved.
+save_share.share_facebook=Share on Facebook
+save_share.share_twitter=Share on Twitter
+save_share.tooltip_facebook=Post product on Facebook
+save_share.tooltip_mail=Send product via email
+save_share.tooltip_panel=Open/close panel
+save_share.tooltip_save=Save product\
+
+save_share.tooltip_twitter=Post product on Facebook
+save_share.url__not_successful=This URL could not be created.
+save_share.username=User name
+sizinginfo.design_too_small_for_printtype=The design is too small for the current print area.
+sizinginfo.label_sizing_dropdown=Please choose a size
+sizinginfo.label_sizing_info=Size chart
+sizinginfo.label_unisize=One size
+sizinginfo.tooltip_sizing_dropdown=Please choose a size
+sizinginfo.tooltip_sizing_info=Sizes for the selected product. 
+text_config_section.btn_bold=B
+text_config_section.btn_italic=I
+text_config_section.label_advanced_options=More options
+text_config_section.label_character_spacing=Character spacing
+text_config_section.label_line_spacing=Line spacing
+text_config_section.label_section_header=Text settings
+text_config_section.label_text_stretching=Stretch
+text_config_section.tooltip_bending_slider_1=Change x-value
+text_config_section.tooltip_bending_slider_2=Change y-value
+text_config_section.tooltip_bold=Bold
+text_config_section.tooltip_bold_not_available=Bold not available
+text_config_section.tooltip_character_spacing=Change character spacing
+text_config_section.tooltip_circle_diamond=Diamond
+text_config_section.tooltip_circle_down=Curve down
+text_config_section.tooltip_circle_triangle=Triangle
+text_config_section.tooltip_circle_up=Curve up
+text_config_section.tooltip_circle_wave=Wave
+text_config_section.tooltip_fontsize_slider=Change font size
+text_config_section.tooltip_font_selection=Choose font
+text_config_section.tooltip_italic=Italic
+text_config_section.tooltip_italic_not_available=Italic not available
+text_config_section.tooltip_line_spacing=Change line spacing
+text_config_section.tooltip_text_align_center=Center
+text_config_section.tooltip_text_align_justify=Justify
+text_config_section.tooltip_text_align_left=Align left
+text_config_section.tooltip_text_align_right=Align right
+toolbox.color_notice=Change text color here
+toolbox.tooltip_flip_horizontal=Flip horizontally
+toolbox.tooltip_flip_vertical=Flip vertically
+toolbox.tooltip_layer_down=Move layer down
+toolbox.tooltip_layer_up=Move layer up
+toolbox.tooltip_position_absolute_center=Place design in the middle
+toolbox.tooltip_position_breastposition=
+toolbox.tooltip_position_horizontal_center=Center design horizontally 
+toolbox.tooltip_position_vertical_center=Center design vertically
+toolbox.tooltip_printtype_section_call=Change print color
+toolbox.tooltip_text_section_section_call=Edit text
+toolbox._notice=Change text colour here
+universal.btn_search=Search
+universal.cancel=Cancel
+universal.in_progress=in progress
+universal.label_details=Details
+universal.label_pagination_next=next
+universal.label_pagination_page=Page
+universal.label_pagination_previous=previous
+universal.label_searchbox=Search
+universal.label_sort=Sorting options
+universal.label_sort_colour=Color
+universal.label_sort_date_added=Newest
+universal.label_sort_popularity=Most popular
+universal.label_sort_price=Price
+universal.label_sort_size=Size
+universal.loading=Loading...
+universal.no=No
+universal.notice=Notice
+universal.proceed=Continue
+universal.tooltip_close=Close
+universal.tooltip_details=More information about the selected product
+universal.tooltip_pagination_next=Next page
+universal.tooltip_pagination_previous=Previous page
+universal.tooltip_searchbox=Enter your search term here
+universal.tooltip_sort_colour=Show selected color first
+universal.tooltip_sort_date_ascending=Newest last
+universal.tooltip_sort_date_descending=Newest first
+universal.tooltip_sort_popularity_ascending=Most popular last
+universal.tooltip_sort_popularity_descending=Most popular first
+universal.tooltip_sort_price_ascending=Ascending
+universal.tooltip_sort_price_descending=Descending
+universal.tooltip_sort_size_tooltip=Show selected size first
+universal.tootltip_sort=Sort the products to find what exactly you are looking for.
+universal.yes=Yes
+upload_gallery.btn_browse_files=Browse
+upload_gallery.btn_goto_upload_section=Upload
+upload_gallery.description_file_restrictions=<ul>\
+<li>.png, .jpg, .bmp or .gif</li>\
+<li>min. 50x50 pixels, max. 4000x4000 pixels</li>\
+<li>maximum 10 MB</li>\
+</ul>
+upload_gallery.description_legal_advise=In order to use a design (photograph, logo, brand logo, saying, text,\
+etc) you must have the full rights to this design. If you are not sure, please confirm ownership or ask the rightful owner for\
+usage rights before uploading a design! By saving a design on the Spreadshirt server, you are confirming:\
+<ul>\
+<li>I hold the specific right to commercially reproduce this design.</li>\
+<li>If, for any reason, the legal beholder of this copyright contacts Spreadshirt, I understand that he/she will be referred directly to me.</li>\
+<li>I understand that illegal usage of a third party's protected design is no small offence and can result in heavy penalties.</li>\
+</ul>
+upload_gallery.label_goto_image_secton=Back
+upload_gallery.label_goto_upload_section=Upload photo
+upload_gallery.label_legal_checkbox=I understand and accept the Copyright Declaration.
+upload_gallery.label_section_header=Upload a photo
+upload_gallery.label_yourimage=Your photo
+upload_gallery.tooltip_delete_image=Delete photo
+zoom_section.tooltip_maximize=Zoom in
+zoom_section.tooltip_minimize=Zoom out
+zoom_section.tooltip_slider=Zoom

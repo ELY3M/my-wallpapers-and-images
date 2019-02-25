@@ -1,0 +1,8 @@
+The first step is to delete all pixel (bitmap) information. 
+Do this by selecting the pixel information and pressing the  delete button  on your keyboard. 
+After the pixel information has been deleted, you will need to select all of the design elements (Ctrl A.) 
+Then in the top menu bar, go to Object/Flatten Transparency. 
+On the settings, slide the bar to 100% vector, and check the  Convert all Text to Outlines  
+and also check the  Convert all Strokes to Outlines . Next, go to the Pathfinder and click on the  
+Merge option. If you don’t see the Pathfinder palette, go to Window/Pathfinder. To finish up, 
+go to Object/Path/Clean Up, and check all three boxes and click OK.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://api.spreadshirt.net">
+    <status>
+        <code>200</code>
+    </status>
+    <payload>
+        <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3">
+            <plain>$</plain>
+            <isoCode>USD</isoCode>
+            <symbol>$</symbol>
+            <decimalCount>2</decimalCount>
+            <pattern>$ %</pattern>
+        </currency>
+    </payload>
+</response>

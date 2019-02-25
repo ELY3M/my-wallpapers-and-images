@@ -1,0 +1,626 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="us" lang="us">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="imagetoolbar" content="no" />
+<meta http-equiv="content-language" content="en" />
+<meta name="author" content="Spreadshirt" />
+<meta name="copyright" content="Spreadshirt" />
+<meta name="description" content=" Create your own T-Shirts with Spreadshirt&rsquo;s T-Shirt Maker.  Add your own text, image, or picture to design your own T-shirts, Hoodies, and more." />
+<meta name="keywords" content="t shirt, printing, design your own t-shirt, custom t shirt, create your own t shirt, custom t shirt printing, create t shirt, customize t shirt" /><meta name="robots" content="index,follow" /><meta name="revisit-after" content="1 days" />
+<meta property="fb:admins" content="582506770, 100002284597536" />
+
+<title> Create Your Own T-Shirts and Custom T-Shirts | Spreadshirt</title>
+<link rel="shortcut icon" href="http://cache.spreadshirt.com/Public/Common/images/favicon/lovetab.ico" />
+<link rel="apple-touch-icon" href="http://cache.spreadshirt.com/Public/Common/images/favicon/appletouch/lovetab.png" />
+<link rel="canonical" href="http://www.spreadshirt.com/create-your-own-t-shirt-C59" />
+
+<link rel="stylesheet" href="http://cache.spreadshirt.com/Public/Common/Styles-packaged/spreadshirt980_aa26fbb0f01db54bf9735d57e74ba3c8.css" type="text/css" media="all" />
+<style type="text/css">
+/* Helper DO NOT EDIT */
+.clearfix:after {content:".";display:block;	height:0;clear:both;visibility:hidden;}
+.clearfix {display:inline-block;}
+/* Hide from IE Mac \*/
+.clearfix {display:block;}
+/* End hide from IE Mac */
+* html .clearfix {height:1px;}
+</style>
+<link rel="stylesheet" href="http://cache.spreadshirt.com/Public/Common/Styles/print.css" type="text/css" media="print" />
+<script type="text/javascript" src="http://cache.spreadshirt.com/Public/Common/Js-packaged/spreadshirt_a7f274120bf882df95d51455d58ad9c4.js"></script>
+</head>
+<body class="us width980">
+<noscript>
+<div id="check-js"><div class="js-error"><p>This page requires JavaScript in order to function correctly. <br/><a href="/help-C1328/categoryId/277/articleId/1018">What is JavaScript and how do I enable it?</a></p></div></div>
+</noscript>
+<div id="header" class="higher relative">
+<div id="group-top">
+<a href="http://www.spreadshirt.com/" id="logo" rel="track[header:Spreadshirt Logo]" title="To the homepage"></a>
+<div id="countrySelection">
+<span class="country US_us" id="selected_localeLang"><span>United States</span></span>
+<select onchange="transferSessionAndOpenUrl(this.value);">
+<optgroup label="North America">
+<option value="http://www.spreadshirt.com/create-your-own-t-shirt-C59?setLocation=US_us" id="US_us" class=" " onmouseover="document.getElementById('selected_localeLang').className='country US_us';
+" selected="selected">United States</option><option value="http://www.spreadshirt.com/us-ca/create-your-own-t-shirt-C59?setLocation=CA_us" id="CA_us" class="lastMainOption " onmouseover="document.getElementById('selected_localeLang').className='country CA_us';
+">Canada (English)</option><option value="http://www.spreadshirt.com/fr-ca/creer-votre-t-shirt-C59?setLocation=CA_fr" id="CA_fr" class="lastMainOption lastPlatformOption" onmouseover="document.getElementById('selected_localeLang').className='country CA_fr';
+">Canada (Français)</option>
+</optgroup><optgroup label="Europe">
+<option value="http://www.spreadshirt.de/" id="DE_de" class=" " onmouseover="document.getElementById('selected_localeLang').className='country DE_de';
+">Deutschland</option><option value="http://www.spreadshirt.fr/" id="FR_fr" class=" " onmouseover="document.getElementById('selected_localeLang').className='country FR_fr';
+">France</option><option value="http://www.spreadshirt.co.uk/" id="GB_en" class="lastMainOption " onmouseover="document.getElementById('selected_localeLang').className='country GB_en';
+">United Kingdom</option><option value="http://www.spreadshirt.be/" id="BE_nl" class=" " onmouseover="document.getElementById('selected_localeLang').className='country BE_nl';
+">Belgie (Nederlands)</option><option value="http://www.spreadshirt.be/" id="BE_fr" class=" " onmouseover="document.getElementById('selected_localeLang').className='country BE_fr';
+">Belgique (Français)</option><option value="http://www.spreadshirt.dk/" id="DK_dk" class=" " onmouseover="document.getElementById('selected_localeLang').className='country DK_dk';
+">Danmark</option><option value="http://www.spreadshirt.es/" id="ES_es" class=" " onmouseover="document.getElementById('selected_localeLang').className='country ES_es';
+">España</option><option value="http://www.spreadshirt.ie/" id="IE_en" class=" " onmouseover="document.getElementById('selected_localeLang').className='country IE_en';
+">Ireland</option><option value="http://www.spreadshirt.it/" id="IT_it" class=" " onmouseover="document.getElementById('selected_localeLang').className='country IT_it';
+">Italia</option><option value="http://www.spreadshirt.nl/" id="NL_nl" class=" " onmouseover="document.getElementById('selected_localeLang').className='country NL_nl';
+">Nederland</option><option value="http://www.spreadshirt.no/" id="NO_no" class=" " onmouseover="document.getElementById('selected_localeLang').className='country NO_no';
+">Norge</option><option value="http://www.spreadshirt.pl/" id="PL_pl" class=" " onmouseover="document.getElementById('selected_localeLang').className='country PL_pl';
+">Polska</option><option value="http://www.spreadshirt.fi/" id="FI_fi" class=" " onmouseover="document.getElementById('selected_localeLang').className='country FI_fi';
+">Suomi</option><option value="http://www.spreadshirt.se/" id="SE_se" class=" " onmouseover="document.getElementById('selected_localeLang').className='country SE_se';
+">Sverige</option><option value="http://www.spreadshirt.at/" id="AT_de" class=" " onmouseover="document.getElementById('selected_localeLang').className='country AT_de';
+">Österreich</option><option value="http://www.spreadshirt.net/?setLocation=EU_en" id="EU_en" class=" lastPlatformOption" onmouseover="document.getElementById('selected_localeLang').className='country EU_en';
+">Europe</option>
+</optgroup>
+</select>
+</div>
+<div id="headerNavigation">
+</div>
+<ul id="navi-level-1">
+<li class="first current"><a href="http://www.spreadshirt.com/create-your-own-t-shirt-C59" rel="track[header:level1,Create your own]" title="Create your own &ndash; design and order your own t-shirts, polo shirts, hoodies and other apparel." id="navi-1-3633" class="designer-tab"><span>Create your own</span></a></li><li ><a href="http://www.spreadshirt.com/" rel="track[header:level1,Marketplace]" title="Marketplace &ndash; buy t-shirts, polo shirts, hoodies and other items with great designs." id="navi-1-2" class=""><span>Marketplace</span></a></li><li ><a href="http://www.spreadshirt.com/start-selling-shirts-C3598" rel="track[header:level1,Sell]" title="Sell &ndash; open your own Spreadshirt Shop and make money with your own designs." id="navi-1-56" class=""><span>Sell</span></a></li><li class="last"><a href="http://www.spreadshirt.com/overview-C4" rel="track[header:level1,My Account]" title="Your Spreadshirt: Administrate personal data and activities " id="navi-1-5" class=""><span>My Account</span></a></li>
+</ul>
+<div id="minibasket" class="header-hidden">
+<p><a href="https://www.spreadshirt.com/shopping-cart-C2001" rel="track[header:Basket]">
+Shopping cart <br />
+Products: <span id="minibasket-count">0</span> | <span id="minibasket-price">0</span>
+</a>
+</p>
+<p class="incl">incl. Tax plus shipping</p>
+</div>
+</div><div id="navi-level-2">
+<div id="top-navi-list-wrapper">
+
+
+
+</div>
+</div>
+<div id="pageNavigation" class="container_10 clearfix">
+
+
+
+
+
+</div></div><div class="container_10 clearfix">
+<a name="104705"></a>
+<!-- ### REQUIRED FOR NO_FLASH TEASER ### -->
+<link rel="stylesheet" href="http://cache.spreadshirt.com/Public/Media/custom_built.css" type="text/css" media="all" />
+
+<!-- NOTE -->
+<!--
+<style type="text/css">
+#top-navi-list-wrapper{
+    min-height:24px;
+    background-image:url(http://cache.spreadshirt.com/Public/Media/us/confomat/xmaxshippingdeadline/confomat_cng_sdo_us.jpg);
+}
+</style>
+--><a name="104600"></a>
+<style type="text/css">
+.grid_2{
+    margin-left:9px;
+}
+
+#survey_box{
+    height:190px;
+    margin-top:-95px;
+    position:fixed;
+    right:-2px;
+    top:50%;
+    width:40px;
+    z-index:1000;
+}
+
+* html #survey_box {
+   display:none;
+}
+
+
+</style>
+<div class="grid_10">
+<div id="survey_box">
+    <a onclick="javascript:window.open('http://www.surveymonkey.com/s.aspx?sm=KD1dXwE_2bJsGAh3LMsNtGVA==', 'surveywindow', 'height=500,width=500,scrollbars=yes,resizable=yes,status=yes');">
+         <img src="http://cache.spreadshirt.com/Public/Media/us/confomat/cng_feedback_right.png" />
+    </a>
+</div>
+
+<!--<div id="survey_box">
+    <a onclick="return Popup.openup(this)" href="http://www.spreadshirt.com/-C3727">
+         <img src="http://cache.spreadshirt.com/Public/Media/eu/confomat/cng_help.png" />
+    </a>
+</div>--><a name="104603"></a><script type="text/javascript" src="http://cache.spreadshirt.com/Public/Confomat/Js-packaged/confomat7_d49afb93da12e4bf655b0d6d3e0a475d.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var ajaxBaseUrl = '/us/US/Ajax';
+var noFlashContent = '<div class="grid_10 alpha omega" id="no_flash">'
++'<div class="grid_6">'
++'<h1 class="font_size_5">Please Update your Flash Player</h1>'
++'<p>In order to use all of the functions in our T-Shirt Designer, you need to have the latest version of the Flash Player. </p>'
++'<a href="http://get.adobe.com/de/flashplayer/" target="_blank" id="download_flash_player" class="button prio1 large right gap_down">Download Flash Player Now</a>'
++'<hr class="dashed_bottom">'
++'<h1 class="font_size_5">Continue to Spreadshirt Marketplace (No Flash Player Required)</h1>'
++'<p>Visit the Spreadshirt Marketplace where you will find custom t-shirts, hoodies, accessories and more – all designed by our designer community. </p>'
++'<div class="clear gap_down_medium">'
++'<a href="http://www.spreadshirt.com/t-shirt-C3376/article/4459467">'
++'<img src="http://image.spreadshirt.com/image-server/image/product/4684863/view/1/type/png/width/130/height/130/awesome-shirt.png" class="border_solid offset_right" alt=""></a>'
++'<a href="http://www.spreadshirt.com/t-shirt-C3376/article/7140975">'
++'<img src="http://image.spreadshirt.com/image-server/image/product/17809764/view/1/type/png/width/130/height/130/stop-wars.png" class="border_solid offset_right" alt=""></a>'
++'<a href="http://www.spreadshirt.com/t-shirt-C3376/article/4737757">'
++'<img src="http://image.spreadshirt.com/image-server/image/product/4945550/view/1/type/png/width/130/height/130/ash-i-love-coffee-t-shirts.png" class="border_solid offset_right" alt=""></a>'
++'<a href="http://www.spreadshirt.com/t-shirt-C3376/article/5564531">'
++'<img src="http://image.spreadshirt.com/image-server/image/product/15840980/view/1/type/png/width/130/height/130/basketball.png" class="border_solid" alt=""></a>'
++'</div>'
++'<a href="http://www.spreadshirt.com/t-shirt-C3375" id="go_to_marketplace" class="button prio1 large right gap_down">Visit Spreadshirt’s Marketplace</a>'
++'</div>'
++'</div>';
+function updateApplicationLoadtime(time){
+if(typeof $('confoLoadtime') != undefined){
+$('confoLoadtime').innerHTML = "Loadtime: "+time+" ms";
+}
+}
+function transferSessionToCanonicalDomain(){
+var targetHost = hostnameFromUri('http://www.spreadshirt.com');
+var sourceHost = hostnameFromUri(window.location);
+var transferUrl = '';
+var transferPixel = '';
+if(sourceHost != targetHost && sessionCanBeTransferred(sourceHost, targetHost)){
+transferUrl = sessionTransferUrl(targetHost);
+transferPixel = document.createElement('img');
+transferPixel.src = transferUrl;
+transferPixel.width = 1;
+transferPixel.height = 1;
+transferPixel.border = 0;
+transferPixel.alt = '';
+document.body.appendChild(transferPixel);
+}
+}
+function moveFocusToConfomat(){
+if($('Confomat')){
+$('Confomat').focus();
+}
+}
+function onUserAuthenticated() {
+updatePage(ajaxBaseUrl + '/');
+}
+Event.observe(window, 'load', moveFocusToConfomat);
+Event.observe(window, 'load', transferSessionToCanonicalDomain);
+confomat.subscribe('applicationLoaded', updateApplicationLoadtime);
+confomat.subscribe('userLoggedIn', onUserAuthenticated);
+confomatContext.setCheckoutUrl('https://www.spreadshirt.com/shopping-cart-C2001');
+confomatContext.setShippingDetailsUrl('http://www.spreadshirt.com/create-t-shirt-C62/categoryId/8/articleId/542');
+confomatContext.setTaxDetailsUrl('http://www.spreadshirt.com/create-t-shirt-C62/categoryId/5/articleId/50');
+confomatContext.setProductUrlTemplate('http://www.spreadshirt.com/create-your-own-t-shirt-C59/product/[productId]/view/[viewId]');
+confomatContext.setPopupLoadingIndicatorUrl('http://cache.spreadshirt.com/Public/Confomat/Html/loading.html');
+confomatContext.onBasketItemCreated = function (id, shop, productId, appearanceId, sizeId, quantity) {
+refreshBasket(ajaxBaseUrl+'/');
+}
+confomatContext.onBasketItemUpdated = function(id, shop, oldProductId, productId, appearanceId, sizeId, quantity)  {
+refreshBasket(ajaxBaseUrl+'/');
+}
+// deprecated in favor of designChanged event
+function currentDesign(designId){
+onDesignChanged(designId);
+}
+
+//]]>
+</script>
+<div id="noFlash"></div>
+<script type="text/javascript">
+//<![CDATA[
+// Version of Flash required
+var requiredMajorVersion = 10;
+var requiredMinorVersion = 0;
+var requiredRevision = 0;
+// Version check for the Flash Player that has the ability to start Player Product Install (6.0r65)
+var hasProductInstall = DetectFlashVer(6, 0, 65);
+// Version check based upon the values defined in globals
+var hasRequestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+if ( hasProductInstall && !hasRequestedVersion ) {
+var confomatLoadStatus = 'updaterLoaded';
+// DO NOT MODIFY THE FOLLOWING FOUR LINES
+// Location visited after installation is complete if installation is required
+var MMPlayerType = (isIE == true) ? "ActiveX" : "PlugIn";
+var MMredirectURL = window.location;
+document.title = document.title.slice(0, 47) + " - Flash Player Installation";
+var MMdoctitle = document.title;
+AC_FL_RunContent(
+"src", "http://cache.spreadshirt.com/Public/Common/Js/playerProductInstall",
+"FlashVars", "MMredirectURL="+MMredirectURL+'&MMplayerType='+MMPlayerType+'&MMdoctitle='+MMdoctitle+"",
+"width", "980",
+"height", "560",
+"align", "middle",
+"id", "Confomat",
+"quality", "high",
+"bgcolor", "#ffffff",
+"name", "Confomat",
+"allowScriptAccess","always",
+"type", "application/x-shockwave-flash",
+"pluginspage", "http://www.adobe.com/go/getflashplayer"
+);
+} else if (hasRequestedVersion) {
+var confomatLoadStatus = 'loaded';
+// if we've detected an acceptable version
+// embed the Flash Content SWF when all tests are passed
+AC_FL_RunContent(
+"src", "http://cache.spreadshirt.com/Public/Confomat/Swf/confomat-7.15.6",
+"FlashVars", "locale=us_US&endPoint=http%3A%2F%2Fwww.spreadshirt.com%2Fapi&imageServer=http%3A%2F%2Fimage.spreadshirt.com%2Fimage-server&resources=http%3A%2F%2Fcache.spreadshirt.com%2Fcache%2Fxml%2Flanguages&shopId=349066&mode=d2c&opossumBaseUrl=http%3A%2F%2Fwww.spreadshirt.com%2Fus%2FUS%2FAjax&opossumBaseUrlSecure=https%3A%2F%2Fwww.spreadshirt.com%2Fus%2FUS%2FAjax&editBasketItemBaseUrl=http%3A%2F%2Fwww.spreadshirt.com%2F-C3706&originId=7",
+"width", "980",
+"height", "560",
+"align", "middle",
+"id", "Confomat",
+"quality", "high",
+"bgcolor", "#ffffff",
+"wmode", "window",
+"name", "Confomat",
+"allowScriptAccess","always",
+"type", "application/x-shockwave-flash",
+"pluginspage", "http://www.adobe.com/go/getflashplayer"
+);
+} else {  // flash is too old or we can't detect the plugin
+var confomatLoadStatus = 'noflash';
+$('noFlash').innerHTML = noFlashContent;
+}
+//]]>
+</script>
+<noscript>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+id="Confomat" width="980" height="560"
+codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
+<param name="movie" value="http://cache.spreadshirt.com/Public/Confomat/Swf/confomat-7.15.6.swf" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+<param name="allowScriptAccess" value="sameDomain" />
+<embed src="http://cache.spreadshirt.com/Public/Confomat/Swf/confomat-7.15.6.swf" bgcolor="#ffffff"
+width="980" height="560" name="Confomat" align="middle"
+FlashVars="locale=us_US&amp;endPoint=http%3A%2F%2Fwww.spreadshirt.com%2Fapi&amp;imageServer=http%3A%2F%2Fimage.spreadshirt.com%2Fimage-server&amp;resources=http%3A%2F%2Fcache.spreadshirt.com%2Fcache%2Fxml%2Flanguages&amp;shopId=349066&amp;mode=d2c&amp;opossumBaseUrl=http%3A%2F%2Fwww.spreadshirt.com%2Fus%2FUS%2FAjax&amp;opossumBaseUrlSecure=https%3A%2F%2Fwww.spreadshirt.com%2Fus%2FUS%2FAjax&amp;editBasketItemBaseUrl=http%3A%2F%2Fwww.spreadshirt.com%2F-C3706&amp;originId=7"
+play="true"
+loop="false"
+quality="high"
+allowScriptAccess="always"
+type="application/x-shockwave-flash"
+pluginspage="http://www.adobe.com/go/getflashplayer">
+</embed>
+</object>
+</noscript>
+
+<script type="text/javascript">
+function updateProducttypeDetails(id){
+if(updateProducttypeDetails.currentId != id){
+updateProducttypeDetails.currentId = id;
+var url = 'http://www.spreadshirt.com/us/US/Ajax/Widgets/Producttype/type/detailbox/productTypeId/' + id;
+var foo = new Ajax.Updater('producttypeDetails', url, { method: 'get' });
+}
+}
+confomat.subscribe('producttypeChange', updateProducttypeDetails);
+</script>
+<div id="producttypeDetails" class="grid_8 alpha dashed_right">
+<div id="producttypeDetailsImages" class="left offset_right border_solid">
+<img id="producttypeDetailsImages_1" class="left" src="http://image.spreadshirt.com/image-server/image/producttype/3/detail/width/560/height/150" />
+<img id="producttypeDetailsImages_2" class="clear left" src="http://image.spreadshirt.com/image-server/image/producttype/3/detail/width/560/height/150" />
+</div>
+<div id="producttypeDetailsDescriptionAndSizing" class="offset_right">
+<div id="producttypeDetailsDescription">
+<h3>Classic Value-T</h3>
+<p class="gap_down">
+Classic cut t-shirt out of 100% cotton and a light 155 g/m². The classic with an extremely good price/value ratio.
+</p>
+</div>
+<div id="producttypeDetailsSizingImage" class="left gap_down offset_right">
+<img src="http://image.spreadshirt.com/image-server/image/producttype/3/size/width/130/height/130" class="border_solid" width="130" height="130" alt="" />
+</div>
+<script type="text/javascript">
+// <![CDATA[
+function modelThumbnailMouseover(src){
+ids = src.id.split("_");
+size_id = ids[1];
+model_id = ids[2];
+if(allModelsMedium.length > 0){
+displayurl = allModelsMedium[model_id][size_id];
+mediumimage = document.getElementById('model_medium_image');
+mediumimage.src = displayurl;
+doIterate = false;
+}
+}
+function modelThumbnailMouseout(src){
+doIterate = true;
+}
+// ]]>
+</script>
+<table class="one-line-row-table product-sizes">
+<thead>
+<tr>
+<th>Size</th>
+<th>S</th><th>M</th><th>L</th><th>XL</th><th>XXL</th>
+</tr>
+
+</thead>
+<tbody>
+<tr >
+<td>Measure A (inch)</td>
+<td>
+26.8
+</td><td>
+28.0
+</td><td>
+28.7
+</td><td>
+29.5
+</td><td>
+30.7
+</td>
+</tr><tr class="even">
+<td>Measure B (inch)</td>
+<td>
+19.7
+</td><td>
+21.3
+</td><td>
+22.0
+</td><td>
+23.2
+</td><td>
+24.0
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div><a name="104605"></a>
+<div class="grid_2 omega">
+
+    <div class="box_3 gap_down_large">
+        <div class="content">
+            <h3>Need help?</h3>
+            <ul>
+                <li class="listMCE"><a href="http://www.spreadshirt.com/-C3673/articleId/1011" onclick="return Popup.openup(this);">How to add text and choose text color.</a></li>
+                <li class="listMCE"><a href="http://www.spreadshirt.com/-C3673/articleId/1008" onclick="return Popup.openup(this);">How to choose a design.</a></li>
+                <li class="listMCE"><a href="http://www.spreadshirt.com/-C3673/articleId/1009" onclick="return Popup.openup(this);">How to choose a product.</a></li>
+                <li class="listMCE"><a href="http://www.spreadshirt.com/-C3673/articleId/1010" onclick="return Popup.openup(this);">How to upload a photo.</a></li>
+            </ul>
+        </div>
+     </div>   
+
+    <div class="box_3 gap_down_large">
+        <div class="dashed_bottom gap_down_small buffer_down_medium">
+            <h3>We accept</h3>
+            <img src="http://cache.spreadshirt.com/Public/Shop/Images/Checkout/Payment/button_57.gif" class="no-border" width="46" alt="VISA" title="VISA" />
+            <img src="http://cache.spreadshirt.com/Public/Shop/Images/Checkout/Payment/button_62.gif" class="no-border" width="46" alt="MasterCard" title="MasterCard"/>
+            <img src="http://cache.spreadshirt.com/Public/Shop/Images/Checkout/Payment/button_61.gif" class="no-border no-gap-right" width="46" alt="American Express" title="American Express"/>
+            <img src="http://cache.spreadshirt.com/Public/Shop/Images/Checkout/Payment/button_8.gif" class="no-border" width="40" alt="Diners Club" title="Diners Club" />
+            <img src="http://cache.spreadshirt.com/Public/Shop/Images/Checkout/Payment/button_41.gif" class="no-border" width="40" alt="Check" title="Check"/>
+            <img src="http://cache.spreadshirt.com/Public/Media/us/Icons/paypal.gif" class="no-border no-gap-right" width="60" alt="PayPal" title="PayPal"/>
+        </div>
+        <div class="text_right">
+        	<a href="http://www.spreadshirt.com/help-C1328/categoryId/5/articleId/25" rel="track[pagelink:payment methods faq25]" target="_blank" class="more">Learn more</a>
+        </div>
+    </div>
+
+</div><a name="105390"></a>
+<div class="clearfix grid_8 alpha dashed_right" style="margin-top: -18px;">
+<div class="offset_right">
+    <h1 style="margin-top:18px;">Create your own T-Shirt with our T-Shirt Designer</h1>
+
+<p>Design your own t-shirt using our T-Shirt Designer. You can personalize your own t-shirt with over 100 different types of <a href="http://www.spreadshirt.com/custom-clothing-C3744">custom clothing:</a> from t-shirts and hoodies to aprons and other great accessories! No minimum orders! Here are the 4 simple steps to make your own t-shirt:</p>
+
+<h2>1. Choose your own T-Shirt (Hoodie or other Clothing) to Customize</h2>
+
+<p>Click on the “Choose Product” button at the top left of the T-Shirt Designer to create your own t-shirt. You can then browse through the wide variety of t-shirts, <a href="http://www.spreadshirt.com/custom-tank-tops-C3728">tank tops</a>, hoodies and accessories. Use the select category drop down to filter the products according to Men, Women, Kids and Babies, and Accessories. Once you have found the custom shirt, <a href="http://www.spreadshirt.com/custom-polos-C3729">polo</a> or other product to build your own t-shirt with, you can choose the size and color of your product.</p>
+
+<h2>2. Create your own T-Shirt with Unique Designs </h2>
+
+<p>Click on “Choose Design” from the top left of the <a href="http://www.spreadshirt.com/t-shirt-maker-C3722">T-Shirt Maker</a> to customize your own t-shirt. You’ll first see our best-selling t-shirt designs. Use the search box to find a design or browse through different design categories by selecting them from the drop down menu. You can design your own t-shirt by moving the design and resizing it directly on your custom t-shirt. On the right side of the T-Shirt Designer, you can customize the design’s colors and print type (smooth or velvety or one of our specialty printing types), so you can easily print your own t-shirt. </p>
+
+<h2>3. Make your own T-Shirt with Personalized Text</h2>
+
+<p>Create your own t-shirt with your own personalized text! Click on the “Add Text” button and simply start writing directly on the shirt. You can resize the text field and move it around to the right spot. On the right side, you can change the color of your text and use the formatting options to select a font, size and more. This is how you can create your own t-shirt with your own personal brand.</p>
+
+<h2>4. Design your own T-Shirt with Photo Uploads</h2>
+
+<p>Upload a photograph or your own design directly onto your custom t-shirt. Simply click on “Upload Photo” and follow the instructions. Once your photo or design is uploaded to the T-Shirt Designer, you can move it around, resize it, and create your own t-shirt. 
+
+And that’s it – now you’ve created your own custom t-shirt, <a href="http://www.spreadshirt.com/custom-hoodies-C3212">custom hoodie</a> or other clothing apparel. Click on “Add to Basket” (there we’ll ask you if you want to create another custom t-shirt) and head to checkout!  </p>
+
+</div>
+
+</div>
+
+
+
+<div class="grid_2 omega">
+<div class="box_3 gap_down_large">
+    	<div class="dashed_bottom gap_down_small buffer_down_medium">
+        	<img src="http://cache.spreadshirt.com/Public/Media/us/elements/small_tick.gif" class="right" />
+            <h3>Spreadshirt-<br />Guarantee</h3>
+            <ul>
+            <li class="listMCE"><a onclick="return Popup.openup(this);" href="http://www.spreadshirt.com/spreadshirt-guarantee-C3420/categoryId/307/articleId/19" rel="track[pagelink:guarantee box faq19]">Fast delivery</a></li>
+            <li class="listMCE"><a onclick="return Popup.openup(this);" href="http://www.spreadshirt.com/spreadshirt-guarantee-C3420/categoryId/307/articleId/991" rel="track[pagelink:guarantee box faq991]">High quality printing </a></li>
+            <li class="listMCE"><a onclick="return Popup.openup(this);" href="http://www.spreadshirt.com/spreadshirt-guarantee-C3420/categoryId/307/articleId/971" rel="track[pagelink:guarantee box faq971]">Helpful Service</a></li>
+            <li class="listMCE"><a onclick="return Popup.openup(this);" href="http://www.spreadshirt.com/spreadshirt-guarantee-C3420/categoryId/307/articleId/23" rel="track[pagelink:guarantee box faq23]">Fair return policy</a></li>
+            </ul>
+		</div>
+        <div class="text_right">
+             <a onclick="return Popup.openup(this);" class="more" href="http://www.spreadshirt.com/spreadshirt-guarantee-C3420" rel="track[pagelink:guarantee box 3420]">Learn more</a>
+        </div>
+    </div>
+</div><a name="105197"></a>
+</div>
+</div><div id="bottom" class="clearfix">
+<div class="full-onsite-text-box clearfix">
+<div class="full-width-box light-col">
+<div id="explanation">
+<p><p><strong>Design your own T-Shirt with Spreadshirt</strong></p>
+<p>Become a trend setter when you create your own t-shirt using Spreadshirt’s T-Shirt Designer.  Build your own t-shirt empire with stylish custom apparel from Spreadshirt.</p>
+
+<p><strong>Make your own T-Shirt and Custom T-Shirt History</strong></p>
+<p>The custom printed t-shirt became popular as a fashionable, stand-alone garment in the 1960s, when t-shirt designer Warren Dayton created his own political protest and pop-culture t-shirts.  When you create your own t-shirt with Spreadshirt’s T-Shirt Maker, you step into a long line of custom t-shirt designers.</p>
+
+<p><strong>Print your own T-Shirt and Go Viral</strong></p>
+<p>When you create your own t-shirt, you allow others to jump on the bandwagon and support you.  So design your own t-shirt and begin your rise to the top.  Spreadshirt makes it easy to create your own t-shirt and go viral by placing your custom designs on our Marketplace for all to see.</p></p>
+</div>
+</div>
+</div>
+<a name="footer"></a>
+<div id="group-bottom" class="clearfix">
+<p class="system-message" id="messageNewsletterOK" style="display:none">Thank you very much! We have just sent you an email - please confirm your e-mail address by clicking on the link contained within. This will complete the registration process for our newsletter.
+</p>
+<p class="system-error" id="messageNewsletterError" style="display:none">An error has occurred. The given e-mail address is either incorrect or already exists within our system.</p>
+<ul id="bottom-navi" class="clearfix">
+<li >
+<h2>Buy</h2>
+<ul>
+<li><a href="http://www.spreadshirt.com/" rel="track[event:Footer - http://www.spreadshirt.com/]"  target="_top">Custom T-Shirts</a></li><li><a href="http://www.spreadshirt.com/create-your-own-t-shirt-C59" rel="track[event:Footer - http://www.spreadshirt.com/create-your-own-t-shirt-C59]"  target="_top">Create your own T-Shirt</a></li><li><a href="http://www.spreadshirt.com/gift-ideas-C3582" rel="track[event:Footer - http://www.spreadshirt.com/gift-ideas-C3582]"  target="_top">Custom Gift Ideas</a></li><li><a href="http://www.spreadshirt.com/apparel-C2107" rel="track[event:Footer - http://www.spreadshirt.com/apparel-C2107]"  target="_top">Apparel</a></li><li><a href="http://www.spreadshirt.com/spreadshirt-coupons-C3627" rel="track[event:Footer - http://www.spreadshirt.com/spreadshirt-coupons-C3627]"  target="_top">Spreadshirt Coupons</a></li><li><a href="http://www.spreadshirt.com/marketplace-overview-C3650" rel="track[event:Footer - http://www.spreadshirt.com/marketplace-overview-C3650]"  target="_top">Marketplace Overview</a></li><li><a href="http://www.spreadshirt.com/us/US/Service/Help-1328/categoryId/302/articleId/925" rel="track[event:Footer - http://www.spreadshirt.com/us/US/Service/Help-1328/categoryId/302/articleId/925]" class="external" target="_blank">Bulk Orders</a></li>
+</ul>
+</li><li >
+<h2>Sell</h2>
+<ul>
+<li><a href="http://www.spreadshirt.com/start-selling-shirts-C3598" rel="track[event:Footer - http://www.spreadshirt.com/start-selling-shirts-C3598]"  target="_top">Open Spreadshirt Shop</a></li><li><a href="http://www.spreadshirt.com/sell-t-shirt-designs-C58" rel="track[event:Footer - http://www.spreadshirt.com/sell-t-shirt-designs-C58]"  target="_top">Offer Designs</a></li><li><a href="http://www.spreadshirt.com/featured-t-shirt-shops-C3828" rel="track[event:Footer - http://www.spreadshirt.com/featured-t-shirt-shops-C3828]"  target="_top">Featured shops</a></li><li><a href="http://www.spreadshirt.com/business-partnerships-C3601" rel="track[event:Footer - http://www.spreadshirt.com/business-partnerships-C3601]"  target="_top">Contact Sales</a></li><li><a href="http://www.spreadshirt.com/spreadshirt-affiliate-program-C3564" rel="track[event:Footer - http://www.spreadshirt.com/spreadshirt-affiliate-program-C3564]"  target="_top">Affiliates</a></li><li><a href="http://developer.spreadshirt.net/display/API/Home" rel="track[event:Footer - http://developer.spreadshirt.net/display/API/Home]" class="external" target="_blank">Spreadshirt API</a></li>
+</ul>
+</li><li >
+<h2>Community</h2>
+<ul>
+<li><a href="http://www.blog.spreadshirt.com" rel="track[event:Footer - http://www.blog.spreadshirt.com]" class="external" target="_blank">Spreadshirt Blog</a></li><li><a href="http://forum.spreadshirt.com" rel="track[event:Footer - http://forum.spreadshirt.com]" class="external" target="_blank">Forum</a></li><li><a href="http://www.facebook.com/spreadshirt" rel="track[event:Footer - http://www.facebook.com/spreadshirt]" class="external" target="_blank">Facebook</a></li><li><a href="http://twitter.com/spreadshirtcom" rel="track[event:Footer - http://twitter.com/spreadshirtcom]" class="external" target="_blank">Twitter</a></li><li><a href="http://www.youtube.com/user/spreadshirt" rel="track[event:Footer - http://www.youtube.com/user/spreadshirt]" class="external" target="_blank">Youtube</a></li>
+</ul>
+</li><li class="last">
+<h2>About Us</h2>
+<ul>
+<li><a href="http://www.spreadshirt.com/our-mission-C69" rel="track[event:Footer - http://www.spreadshirt.com/our-mission-C69]"  target="_top">The Company</a></li><li><a href="http://www.spreadshirt.com/jobs-C2834" rel="track[event:Footer - http://www.spreadshirt.com/jobs-C2834]"  target="_top">Jobs</a></li><li><a href="http://www.spreadshirt.com/terms-and-conditions-for-customers-C2377" rel="track[event:Footer - http://www.spreadshirt.com/terms-and-conditions-for-customers-C2377]"  target="_top">Terms & Conditions</a></li><li><a href="http://www.spreadshirt.com/press-C2525" rel="track[event:Footer - http://www.spreadshirt.com/press-C2525]"  target="_top">Press</a></li><li><a href="http://www.spreadshirt.com/privacy-policy-C3259" rel="track[event:Footer - http://www.spreadshirt.com/privacy-policy-C3259]"  target="_top">Privacy</a></li><li><a href="http://www.spreadshirt.com/legal-information-C1338" rel="track[event:Footer - http://www.spreadshirt.com/legal-information-C1338]"  target="_top">Legal Information</a></li>
+</ul>
+</li>
+</ul>
+<div class="section full-footer-box clearfix">
+<div class="single-col-box light-col">
+<p><strong>Service</strong></p>
+<p>E-Mail: <a href="mailto:service@spreadshirt.com">service@spreadshirt.com</a></p>
+<p><a href="http://www.spreadshirt.com/contact-C1336">Contact</a></p>
+<p><a href="/help-C2000">FAQs</a></p>
+</div>
+<div class="single-col-box light-col">
+<p><strong>Newsletter</strong></p>
+<div id="newsletter-loading" style="display: none;"><img src="http://cache.spreadshirt.com/Public/Common/images/loading_ani.gif" alt="" /></div>
+<form action="" method="post" class="newsletter-sign-up-form" onsubmit="javascript:subscribeCustomerNewsletter('http://www.spreadshirt.com/us/US/Ajax/Newsletter/subscribecustomer/');trackLink(this, 'eVar34', 'Footer - Newsletter Subscription - us - US');return false;" id="newsletter-sign-up-form">
+<fieldset>
+<p>Would you like to receive our most current offers by e-mail?</p>
+<input id="customerNewsletterEmail" type="text" value="Your e-mail address" onfocus="this.value=''"/>
+<p class="sign-up-link"><a href="#footer" onclick="javascript:subscribeCustomerNewsletter('http://www.spreadshirt.com/us/US/Ajax/Newsletter/subscribecustomer/');trackLink(this, 'eVar34', 'Footer - Newsletter Subscription - us - US');">Register now!</a></p>
+</fieldset>
+</form>
+</div>
+<div class="single-col-box light-col">
+<p><strong>We accept</strong></p>
+<a href="http://www.spreadshirt.com/help-C1328/categoryId/5/articleId/25"><span class="payment visa"></span>
+<span class="payment mastercard"></span>
+<span class="payment amex"></span>
+<span class="payment diners"></span>
+<span class="payment check"></span>
+<span class="payment paypal"></span></a>
+</div>
+
+<div class="bbb-logo-col-box light-col">
+<div class="text-right">
+<a target="_blank" href="http://www.bbbonline.org/cks.asp?id=107100595049"><img src="http://cache.spreadshirt.com/Public/Common/images/Icons/bbbseal.gif" title="Click to verify BBB accreditation and to see a BBB report." alt="Click to verify BBB accreditation and to see a BBB report." oncontextmenu="alert('Use without permission is prohibited. The BBB Accredited Business seal is a trademark of the Council of Better Business Bureaus, Inc.'); return false;" class="no-border" /></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="display: none; position: absolute; z-index: 3000; left: 324px; top: 2183px;" id="tooltip">
+<p class="body">still to fill</p><p style="display: none;" class="url"></p>
+</div>
+<!-- SiteCatalyst code version: H.21. -->
+<script language="JavaScript" type="text/javascript">var s_account = "spreadshirt-com-en";</script>
+<script language="JavaScript" type="text/javascript" src="http://cache.spreadshirt.com/Public/Common/Js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.cookieDomain = ".spreadshirt.com";
+s.trackingServer = "analytics.spreadshirt.com";
+s.trackingServerSecure = "sanalytics.spreadshirt.com";
+s.lang = "us";
+s.linkInternalFilters="javascript:,.spreadshirt.com,.spreadshirt.net," + s.cookieDomain;
+
+if (getCookieValue('cdn_h_referer') == null) {
+    reg = new RegExp('^http:\/\/[a-zA-Z0-9._\-]+'+s.cookieDomain.replace(/[.]/g, '\\.'), '');
+    if(document.referrer.match(reg) == null){
+        createCookie('cdn_h_referer', document.referrer, s.cookieDomain, 1);
+    }
+}
+s.server = "www.spreadshirt.com"
+s.currencyCode = "USD"
+s.pageName = "T-Shirt Designer - a/b test 100 -  -  - 105197"
+s.prop32 = "CMS"
+s.channel = "Designer - Designer"
+s.prop1 = "Designer - Designer"
+if('function' == typeof GetSwfVer){
+    s.prop44 = GetSwfVer();
+}
+if('undefined' != typeof confomatLoadStatus) {
+    if(confomatLoadStatus == 'loaded') {
+        if('undefined' == typeof s.events || s.events == "") {
+            s.events="event1";
+        } else {
+            s.events = s.events + ",event1";
+        }
+    }else if(confomatLoadStatus == 'updaterLoaded') {
+        s.eVar39 = "Flash Updater loaded";
+    } else {
+        s.eVar39 = "Flash not installed/not updatable";
+    }
+}
+//--></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-24747471-4']);
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<script type="text/javascript" language="javascript">
+updatePage('http://www.spreadshirt.com/us/US/Ajax/', '');
+</script>
+<script type="text/javascript" src="//partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+    //<!--
+  if (getCookieValue("cm_closed"))
+    var cm_closed = getCookieValue("cm_closed");
+  else
+    var cm_closed = "false";
+  GS_googleAddAdSenseService("ca-pub-0828877492672705");
+  GS_googleEnableAllServices();
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+  GA_googleAddAttr("closed", cm_closed);
+  GA_googleAddAttr("localeLang", "US_us");
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+  GA_googleAddSlot("ca-pub-0828877492672705", "Sprd_Country_Message");
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+  GA_googleFetchAds();
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+  GA_googleFillSlot("Sprd_Country_Message");
+    //-->
+</script></body></html>

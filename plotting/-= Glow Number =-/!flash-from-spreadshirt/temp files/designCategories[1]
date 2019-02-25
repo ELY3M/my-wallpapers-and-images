@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://api.spreadshirt.net">
+    <status>
+        <code>200</code>
+    </status>
+    <payload>
+        <designCategories sortOrder="default" sortField="default" count="-1" limit="1000" offset="0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories">
+            <designCategory type="MY_DESIGNS" weight="1.0" id="500">
+                <name>My Designs</name>
+                <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/500/designs"/>
+            </designCategory>
+            <designCategory type="SHOP" weight="2.0" id="510">
+                <name>Shop Designs</name>
+                <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/510/designs"/>
+                <designCategories>
+                    <designCategory type="SHOP" weight="4.0" id="10">
+                        <name>Rhinestones</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/10/designs"/>
+                    </designCategory>
+                </designCategories>
+            </designCategory>
+            <designCategory type="MARKETPLACE" weight="3.0" id="1000000">
+                <name>Marketplace Designs</name>
+                <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000000/designs"/>
+                <designCategories>
+                    <designCategory type="BESTSELLER" weight="-1.0" id="b1000000">
+                        <name>Bestsellers</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000000/designs"/>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="0.0" id="1000179">
+                        <name>Vehicles</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000179/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000179">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000179/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000182">
+<name>Bicycles</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000182/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000180">
+<name>Cars</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000180/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000200">
+<name>Miscellaneous</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000200/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000181">
+<name>Motorcycles</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000181/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000183">
+<name>Public Transportation</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000183/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="1.0" id="1000008">
+                        <name>Humor </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000008/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000008">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000008/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000025">
+<name>Brain Teasers </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000025/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000028">
+<name>Cartoon </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000028/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000027">
+<name>Comic </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000027/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000021">
+<name>Insults </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000021/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000022">
+<name>Jokes </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000022/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000143">
+<name>Manga</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000143/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000029">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000029/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000023">
+<name>Office Humor </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000023/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000019">
+<name>Provocative </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000019/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="9.0" id="1000024">
+<name>Quotations </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000024/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="10.0" id="1000026">
+<name>Satire </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000026/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="2.0" id="1000018">
+                        <name>Love</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000018/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000018">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000018/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000110">
+<name>Couples </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000110/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000113">
+<name>Gay &amp; Lesbian </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000113/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000170">
+<name>Hearts</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000170/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000171">
+<name>Hearts Broken</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000171/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000112">
+<name>Men </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000112/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000111">
+<name>Miscellaneous</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000111/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000201">
+<name>Romance</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000201/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000114">
+<name>Singles </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000114/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000115">
+<name>Women </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000115/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="3.0" id="1000015">
+                        <name>Sports </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000015/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000015">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000015/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000086">
+<name>Baseball </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000086/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000091">
+<name>Basketball </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000091/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000185">
+<name>Cycling</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000185/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000085">
+<name>Football </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000085/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000089">
+<name>Golf </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000089/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000190">
+<name>Martial Arts</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000190/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000093">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000093/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000189">
+<name>Poker</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000189/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000090">
+<name>Racing </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000090/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="9.0" id="1000187">
+<name>Snowboarding</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000187/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="10.0" id="1000186">
+<name>Skateboarding</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000186/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="11.0" id="1000188">
+<name>Surfing</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000188/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="12.0" id="1000087">
+<name>Soccer </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000087/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="13.0" id="1000088">
+<name>Tennis </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000088/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="14.0" id="1000092">
+<name>Winter Sports</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000092/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="15.0" id="1000566">
+<name>Hockey</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000566/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="4.0" id="1000016">
+                        <name>Music </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000016/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000016">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000016/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000128">
+<name>Classic</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000128/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000100">
+<name>Country </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000100/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000094">
+<name>Dance/Electronica </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000094/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000095">
+<name>Hip Hop </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000095/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000098">
+<name>Jazz </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000098/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000101">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000101/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000097">
+<name>Pop </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000097/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000099">
+<name>R &amp; B </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000099/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000096">
+<name>Rock &amp; Metal </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000096/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="5.0" id="1000017">
+                        <name>Animals &amp; Nature </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000017/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000017">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000017/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000104">
+<name>Birds </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000104/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000103">
+<name>Cats </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000103/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000102">
+<name>Dogs </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000102/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000184">
+<name>Horses</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000184/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000131">
+<name>Insects</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000131/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000106">
+<name>Marine Life </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000106/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000109">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000109/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000105">
+<name>Nature </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000105/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000107">
+<name>Reptiles </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000107/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="9.0" id="1000108">
+<name>Wildlife </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000108/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="6.0" id="1000149">
+                        <name>Symbols &amp; Shapes </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000149/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000149">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000149/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000152">
+<name>Icons</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000152/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000153">
+<name>Miscellaneous</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000153/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000151">
+<name>Shapes </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000151/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000150">
+<name>Symbols</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000150/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="7.0" id="1000009">
+                        <name>Art &amp; design</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000009/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000009">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000009/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000038">
+<name>Anime </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000038/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000037">
+<name>Cartoon </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000037/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000036">
+<name>Collage </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000036/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000031">
+<name>Fantasy Art </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000031/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000033">
+<name>Graffiti </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000033/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000034">
+<name>Illustration </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000034/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000039">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000039/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000035">
+<name>New Age </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000035/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000032">
+<name>Painting &amp; Drawing </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000032/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="9.0" id="1000030">
+<name>Photography </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000030/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="8.0" id="1000010">
+                        <name>Baby &amp; Family </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000010/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000010">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000010/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000041">
+<name>Baby </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000041/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000119">
+<name>Child</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000119/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000040">
+<name>Family </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000040/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000043">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000043/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000042">
+<name>Pregnancy </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000042/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="9.0" id="1000014">
+                        <name>Holidays &amp; Occasions</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000014/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000014">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000014/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000191">
+<name>Bachelor &amp; Bachelorette Parties</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000191/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000154">
+<name>Back To School</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000154/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000167">
+<name>Birthdays</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000167/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000079">
+<name>Christmas </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000079/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000080">
+<name>Easter</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000080/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000207">
+<name>Father's Day</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000207/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000081">
+<name>Halloween </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000081/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000217">
+<name>Hanukkah</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000217/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000214">
+<name>July 4th</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000214/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="9.0" id="1000218">
+<name>Kwanzaa</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000218/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="10.0" id="1000083">
+<name>Labor Day </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000083/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="11.0" id="1000084">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000084/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="12.0" id="1000202">
+<name>Mother's Day</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000202/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="13.0" id="1000146">
+<name>St. Patrick's Day</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000146/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="14.0" id="1000082">
+<name>Valentine's Day</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000082/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="15.0" id="1000166">
+<name>Weddings</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000166/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="10.0" id="1000001">
+                        <name>News &amp; Politics </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000001/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000001">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000001/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000156">
+<name>Awareness</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000156/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000004">
+<name>Elections </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000004/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000002">
+<name>In the News </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000002/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000138">
+<name>Media</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000138/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000007">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000007/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000005">
+<name>Parties </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000005/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000003">
+<name>Politics </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000003/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000006">
+<name>Political Issues </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000006/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="11.0" id="1000011">
+                        <name>Religion &amp; Philosophy</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000011/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000011">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000011/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000044">
+<name>Buddhism </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000044/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000045">
+<name>Christianity </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000045/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000046">
+<name>Hinduism </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000046/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000048">
+<name>Islam </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000048/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000049">
+<name>Judaism </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000049/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000053">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000053/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000050">
+<name>New Age </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000050/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000051">
+<name>Philosophy </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000051/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000052">
+<name>Spirituality &amp; Mythology</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000052/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="12.0" id="1000012">
+                        <name>Computer </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000012/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000012">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000012/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000054">
+<name>Community </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000054/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000055">
+<name>Gaming </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000055/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000056">
+<name>Geek </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000056/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000057">
+<name>Internet </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000057/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000062">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000062/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000058">
+<name>Online </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000058/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000061">
+<name>Programming </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000061/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000059">
+<name>Robotics </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000059/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000060">
+<name>Systems </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000060/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="13.0" id="1000013">
+                        <name>Careers &amp; Professions </name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000013/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000013">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000013/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000063">
+<name>Accountant </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000063/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000122">
+<name>Artist </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000122/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000074">
+<name>Attorney </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000074/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000076">
+<name>Biologist </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000076/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000075">
+<name>Chemist </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000075/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="5.0" id="1000067">
+<name>Cook </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000067/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="6.0" id="1000071">
+<name>Doctor </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000071/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="7.0" id="1000064">
+<name>Engineer </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000064/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="8.0" id="1000068">
+<name>Firefighter</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000068/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="9.0" id="1000070">
+<name>Mechanic </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000070/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="10.0" id="1000077">
+<name>Military </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000077/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="11.0" id="1000078">
+<name>Miscellaneous </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000078/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="12.0" id="1000069">
+<name>Police Officer</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000069/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="13.0" id="1000123">
+<name>Professor</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000123/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="14.0" id="1000065">
+<name>Programmer </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000065/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="15.0" id="1000124">
+<name>Social Worker</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000124/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="16.0" id="1000140">
+<name>Students</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000140/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="17.0" id="1000072">
+<name>Teacher </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000072/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="18.0" id="1000066">
+<name>Truck Driver </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000066/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="19.0" id="1000073">
+<name>Unemployed </name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000073/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="14.0" id="1000133">
+                        <name>Cities &amp; Countries</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000133/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000133">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000133/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000134">
+<name>Cities</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000134/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000135">
+<name>Countries &amp; Flags</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000135/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000137">
+<name>Miscellaneous</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000137/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000136">
+<name>States</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000136/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                    <designCategory type="MARKETPLACE" weight="15.0" id="1000172">
+                        <name>NSFW (Not Safe For Work)</name>
+                        <designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000172/designs"/>
+                        <designCategories>
+                            <designCategory type="BESTSELLER" weight="-1.0" id="b1000172">
+<name>All Subtopics</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/b1000172/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="0.0" id="1000175">
+<name>Couples</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000175/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="1.0" id="1000176">
+<name>Gay &amp; Lesbian</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000176/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="2.0" id="1000173">
+<name>Men</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000173/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="3.0" id="1000177">
+<name>Miscellaneous</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000177/designs"/>
+                            </designCategory>
+                            <designCategory type="MARKETPLACE" weight="4.0" id="1000174">
+<name>Women</name>
+<designs xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designCategories/1000174/designs"/>
+                            </designCategory>
+                        </designCategories>
+                    </designCategory>
+                </designCategories>
+            </designCategory>
+        </designCategories>
+    </payload>
+</response>

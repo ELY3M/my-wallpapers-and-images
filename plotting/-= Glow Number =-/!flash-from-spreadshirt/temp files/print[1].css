@@ -1,0 +1,154 @@
+body {
+	color:#222;
+	font-family:"Trebuchet MS",Corbel,Calibri,Arial,sans-serif;
+	font-size:72.5%;
+	line-height:1;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, hr, pre, form, fieldset, legend, input, button, p, blockquote, table, th, td {
+	margin:0pt;
+	padding:0pt;
+	text-align: justify !important;
+}
+.section p {
+    clear: both;
+}
+
+#www-content {
+	margin:0 0 36px;
+	overflow:visible;
+	padding:12px 0 0;
+	text-align: justify !important;
+	width:100%;
+}
+
+
+#www-content .main {
+	width: 100% !important;
+	overflow:visible !important;
+	display:block !important;
+	margin: 0;
+	padding: 0;
+}
+
+ul li.listMCE {
+	clear:both;
+	list-style:inside;
+	list-style-type:disc;
+}
+
+.section,
+.section-low-bottom {
+	float:none;
+	margin-bottom:18px;
+	width:auto;
+	padding: 0;
+}
+.section:after {content:".";display:block;	height:0;clear:both;visibility:hidden;}
+.section {display:inline-block;}
+/* Hide from IE Mac \*/
+.section {display:block;}
+/* End hide from IE Mac */
+* html .section {height:1px;}
+
+#www-content.marginal-triple .full-width-box, 
+#www-content .marginal-triple .full-width-box, 
+#www-content.marginal-triple hr, 
+#www-content .marginal-triple hr {
+	width:100%;
+}
+
+
+.light-col {
+	border-bottom:medium none;
+	padding-bottom:0pt;
+}
+
+
+h1 {
+	color:#493829;
+	font-size:2.1em;
+	font-weight:bold;
+	line-height:1.2em;
+	margin-bottom:0.71em;
+}
+
+
+h2 {
+	color:#00A0E2;
+	display:block;
+	font-size:1.5em;
+	font-weight:bold;
+	margin-bottom:0.67em;
+}
+
+p, dl, ul, ol, pre, address {
+	font-size:1.1em;
+	font-style:normal;
+	line-height:1.5em;
+	margin-bottom:0.5em;
+	text-align: justify !important;
+}
+
+.section,
+.small-col-box, 
+.single-col-box, 
+.single-and-a-half-col-box, 
+.double-col-box, 
+.triple-col-box, 
+.full-width-box, 
+.two-thirds-box, 
+.half-of-two-thirds-box,
+.triple-col-box ul{
+	border:none;
+	margin-right:36px;
+	overflow:visible !important;
+	padding-bottom:8px;
+	width:100% !important;
+	float: none !important;
+}
+
+#header,
+#bottom,
+.top-link,
+.marginal,
+#frmOrderShow .checkoutStepsBottom,
+.checkoutStepsTop,
+.print-it,
+a.print,
+.save-as-pdf {
+	display:none !important;
+}
+
+.logo-print {
+	display:block !important;
+}
+
+.banner-image {
+	border: none;
+}
+
+
+.gap-up {
+	margin-top: 20px;
+}
+
+.gap-down {
+	margin-bottom: 20px;
+}
+
+
+.job-image {
+	width:300px !important;
+	float:left !important;
+}
+
+.job-image img {
+	border:none !important;
+}
+
+.single-and-a-half-col-box {
+	float:left !important;
+	width:300px !important;
+	clear:none !important;
+}

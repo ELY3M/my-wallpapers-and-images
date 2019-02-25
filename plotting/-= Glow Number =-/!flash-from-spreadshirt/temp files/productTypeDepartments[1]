@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://api.spreadshirt.net">
+    <status>
+        <code>200</code>
+    </status>
+    <payload>
+        <productTypeDepartments sortOrder="default" sortField="default" count="12" limit="100" offset="0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypeDepartments?fullData=true">
+            <productTypeDepartment weight="1.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypeDepartments/1" id="1">
+                <name>Men</name>
+                <categories>
+                    <category id="22">
+                        <name>T-Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/109" id="109"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/175" id="175"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/210" id="210"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/121" id="121"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/686" id="686"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/691" id="691"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/144" id="144"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/538" id="538"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/491" id="491"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/171" id="171"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/650" id="650"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/98" id="98"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/460" id="460"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/698" id="698"/>
+                        </productTypes>
+                    </category>
+                    <category id="23">
+                        <name>Long Sleeve Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/512" id="512"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/682" id="682"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/102" id="102"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/174" id="174"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/23" id="23"/>
+                        </productTypes>
+                    </category>
+                    <category id="25">
+                        <name>Hoodies</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/679" id="679"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/111" id="111"/>
+                        </productTypes>
+                    </category>
+                    <category id="26">
+                        <name>Zip Hoodies/Jackets</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/669" id="669"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/103" id="103"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/198" id="198"/>
+                        </productTypes>
+                    </category>
+                    <category id="24">
+                        <name>Polo Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/110" id="110"/>
+                        </productTypes>
+                    </category>
+                    <category id="98">
+                        <name>Pants/Shorts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/640" id="640"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/671" id="671"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/714" id="714"/>
+                        </productTypes>
+                    </category>
+                    <category id="27">
+                        <name>Underwear</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/618" id="618"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/715" id="715"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/714" id="714"/>
+                        </productTypes>
+                    </category>
+                    <category id="75">
+                        <name>New Apparel</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/686" id="686"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/691" id="691"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/698" id="698"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/715" id="715"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/714" id="714"/>
+                        </productTypes>
+                    </category>
+                    <category id="29">
+                        <name>Eco-Friendly Tees</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/454" id="454"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/460" id="460"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/682" id="682"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/572" id="572"/>
+                        </productTypes>
+                    </category>
+                    <category id="70">
+                        <name>Fashion Brands</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/669" id="669"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/686" id="686"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/657" id="657"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/658" id="658"/>
+                        </productTypes>
+                    </category>
+                    <category id="28">
+                        <name>Athletic Wear</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/640" id="640"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/671" id="671"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/698" id="698"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/572" id="572"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/98" id="98"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/103" id="103"/>
+                        </productTypes>
+                    </category>
+                </categories>
+            </productTypeDepartment>
+            <productTypeDepartment weight="2.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypeDepartments/2" id="2">
+                <name>Women</name>
+                <categories>
+                    <category id="30">
+                        <name>Women's T-Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/692" id="692"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/221" id="221"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/288" id="288"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/402" id="402"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/347" id="347"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/561" id="561"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/348" id="348"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/565" id="565"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/491" id="491"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/538" id="538"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/377" id="377"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/461" id="461"/>
+                        </productTypes>
+                    </category>
+                    <category id="31">
+                        <name>Junior's Tees</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/152" id="152"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/561" id="561"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/565" id="565"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/216" id="216"/>
+                        </productTypes>
+                    </category>
+                    <category id="33">
+                        <name>Long Sleeve Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/681" id="681"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/345" id="345"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/101" id="101"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/223" id="223"/>
+                        </productTypes>
+                    </category>
+                    <category id="35">
+                        <name>Hoodies</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/405" id="405"/>
+                        </productTypes>
+                    </category>
+                    <category id="36">
+                        <name>Zip Hoodies/Jackets</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/669" id="669"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/103" id="103"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/197" id="197"/>
+                        </productTypes>
+                    </category>
+                    <category id="34">
+                        <name>Polo Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/449" id="449"/>
+                        </productTypes>
+                    </category>
+                    <category id="32">
+                        <name>Tanks</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/575" id="575"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/649" id="649"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/271" id="271"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/469" id="469"/>
+                        </productTypes>
+                    </category>
+                    <category id="59">
+                        <name>Bottoms</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/555" id="555"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/639" id="639"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/692" id="692"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/714" id="714"/>
+                        </productTypes>
+                    </category>
+                    <category id="37">
+                        <name>Underwear</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/553" id="553"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/618" id="618"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/301" id="301"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/160" id="160"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/115" id="115"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/714" id="714"/>
+                        </productTypes>
+                    </category>
+                    <category id="74">
+                        <name>New Apparel</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/699" id="699"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/714" id="714"/>
+                        </productTypes>
+                    </category>
+                    <category id="39">
+                        <name>Eco-Friendly Tees</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/454" id="454"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/461" id="461"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/567" id="567"/>
+                        </productTypes>
+                    </category>
+                    <category id="71">
+                        <name>Fashion Brands</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/681" id="681"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/688" id="688"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/655" id="655"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/656" id="656"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/651" id="651"/>
+                        </productTypes>
+                    </category>
+                    <category id="84">
+                        <name>Athletic Wear</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/639" id="639"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/567" id="567"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/103" id="103"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/271" id="271"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/469" id="469"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/555" id="555"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/699" id="699"/>
+                        </productTypes>
+                    </category>
+                    <category id="38">
+                        <name>Plus Size</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/447" id="447"/>
+                        </productTypes>
+                    </category>
+                </categories>
+            </productTypeDepartment>
+            <productTypeDepartment weight="3.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypeDepartments/3" id="3">
+                <name>Kids &amp; Babies</name>
+                <categories>
+                    <category id="40">
+                        <name>Kids' Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/700" id="700"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/48" id="48"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/486" id="486"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/488" id="488"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/487" id="487"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/457" id="457"/>
+                        </productTypes>
+                    </category>
+                    <category id="41">
+                        <name>Toddler Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/602" id="602"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/442" id="442"/>
+                        </productTypes>
+                    </category>
+                    <category id="42">
+                        <name>Baby Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/601" id="601"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/375" id="375"/>
+                        </productTypes>
+                    </category>
+                    <category id="46">
+                        <name>Sweatshirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/677" id="677"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/499" id="499"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/404" id="404"/>
+                        </productTypes>
+                    </category>
+                    <category id="43">
+                        <name>Baby Bodysuits</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/342" id="342"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/401" id="401"/>
+                        </productTypes>
+                    </category>
+                    <category id="76">
+                        <name>New Apparel</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/700" id="700"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/706" id="706"/>
+                        </productTypes>
+                    </category>
+                    <category id="78">
+                        <name>Accessories</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/634" id="634"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/706" id="706"/>
+                        </productTypes>
+                    </category>
+                </categories>
+            </productTypeDepartment>
+            <productTypeDepartment weight="4.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypeDepartments/4" id="4">
+                <name>Accessories</name>
+                <categories>
+                    <category id="77">
+                        <name>New Apparel</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/687" id="687"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/706" id="706"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/707" id="707"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/708" id="708"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/108" id="108"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/709" id="709"/>
+                        </productTypes>
+                    </category>
+                    <category id="48">
+                        <name>Bags </name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/636" id="636"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/642" id="642"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/643" id="643"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/672" id="672"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/707" id="707"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/46" id="46"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/378" id="378"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/472" id="472"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/687" id="687"/>
+                        </productTypes>
+                    </category>
+                    <category id="102">
+                        <name>Laptop &amp; Netbook Sleeves</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/672" id="672"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/642" id="642"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/643" id="643"/>
+                        </productTypes>
+                    </category>
+                    <category id="47">
+                        <name>Caps</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/610" id="610"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/637" id="637"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/706" id="706"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/129" id="129"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/51" id="51"/>
+                        </productTypes>
+                    </category>
+                    <category id="49">
+                        <name>Apron</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/158" id="158"/>
+                        </productTypes>
+                    </category>
+                    <category id="54">
+                        <name>Other</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/618" id="618"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/609" id="609"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/610" id="610"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/55" id="55"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/576" id="576"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/708" id="708"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/108" id="108"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/709" id="709"/>
+                        </productTypes>
+                    </category>
+                    <category id="55">
+                        <name>Dog T-Shirts</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/527" id="527"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/611" id="611"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/408" id="408"/>
+                        </productTypes>
+                    </category>
+                    <category id="52">
+                        <name>Gift Certificates</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/673" id="673"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/307" id="307"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/328" id="328"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/329" id="329"/>
+                        </productTypes>
+                    </category>
+                    <category id="72">
+                        <name>Fashion Brands</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/687" id="687"/>
+                        </productTypes>
+                    </category>
+                </categories>
+            </productTypeDepartment>
+            <productTypeDepartment weight="5.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypeDepartments/7" id="7">
+                <name>Fashion Brands</name>
+                <categories>
+                    <category id="65">
+                        <name>Men</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/657" id="657"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/658" id="658"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/686" id="686"/>
+                        </productTypes>
+                    </category>
+                    <category id="66">
+                        <name>Women</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/651" id="651"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/655" id="655"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/656" id="656"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/681" id="681"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/688" id="688"/>
+                        </productTypes>
+                    </category>
+                </categories>
+            </productTypeDepartment>
+            <productTypeDepartment weight="6.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypeDepartments/6" id="6">
+                <name>New Apparel</name>
+                <categories>
+                    <category id="81">
+                        <name>Accessories (68)</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/108" id="108"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/708" id="708"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/707" id="707"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/709" id="709"/>
+                        </productTypes>
+                    </category>
+                    <category id="62">
+                        <name>Men</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/698" id="698"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/715" id="715"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/714" id="714"/>
+                        </productTypes>
+                    </category>
+                    <category id="63">
+                        <name>Women</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/699" id="699"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/714" id="714"/>
+                        </productTypes>
+                    </category>
+                    <category id="64">
+                        <name>Accessories</name>
+                        <productTypes>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/708" id="708"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/108" id="108"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/707" id="707"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/709" id="709"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/706" id="706"/>
+                            <productType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/productTypes/687" id="687"/>
+                        </productTypes>
+                    </category>
+                </categories>
+            </productTypeDepartment>
+        </productTypeDepartments>
+    </payload>
+</response>

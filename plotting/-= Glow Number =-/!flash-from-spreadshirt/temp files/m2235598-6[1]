@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://api.spreadshirt.net">
+    <status>
+        <code>200</code>
+    </status>
+    <payload>
+        <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m2235598-6" id="2235598">
+            <name>Alien Birth</name>
+            <description>Shows a little alien baby growing in the belly. Great for a pregnancy costume: use in glow-in-the-dark on the new maternity shirt.</description>
+            <tags>Fetus,Halloween,alien,birth,maternity costume</tags>
+            <user xlink:href="http://www.spreadshirt.com/api/v1/users/241349" id="241349"/>
+            <creator>userArea</creator>
+            <restrictions>
+                <fixedColors>false</fixedColors>
+                <ownText>true</ownText>
+                <obligatory>false</obligatory>
+                <movable>true</movable>
+                <targetView>0</targetView>
+                <minimumScale>100</minimumScale>
+                <visible>true</visible>
+                <inverted>false</inverted>
+            </restrictions>
+            <size unit="mm">
+                <width>139.91166666667</width>
+                <height>115.99333333333</height>
+            </size>
+            <colors>
+                <color layer="0">
+                    <default>#D5E776</default>
+                    <origin>#D5E776</origin>
+                    <resources>
+                        <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2235598" type="montage" mediaType="png"/>
+                    </resources>
+                </color>
+            </colors>
+            <printTypes>
+                <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+            </printTypes>
+            <designCategories>
+                <designCategory id="1000081"/>
+            </designCategories>
+            <price>
+                <vatExcluded>4.00</vatExcluded>
+                <vatIncluded>4.00</vatIncluded>
+                <vat>0.00</vat>
+                <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+            </price>
+            <resources>
+                <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2235598" type="preview" mediaType="png"/>
+                <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2235598" type="montage" mediaType="png"/>
+            </resources>
+            <created>2007-10-01T02:27:43Z</created>
+            <modified>2011-11-11T10:27:08Z</modified>
+        </design>
+    </payload>
+</response>

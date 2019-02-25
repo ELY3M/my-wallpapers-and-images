@@ -1,0 +1,56 @@
+
+<div id="producttypeDetailsImages" class="left offset_right border_solid">
+<img id="producttypeDetailsImages_1" class="left" src="http://image.spreadshirt.com/image-server/image/producttype/576/detail/width/560/height/150" />
+<img id="producttypeDetailsImages_2" class="clear left" src="http://image.spreadshirt.com/image-server/image/producttype/576/detail/width/560/height/150" />
+</div>
+<div id="producttypeDetailsDescriptionAndSizing" class="offset_right">
+<div id="producttypeDetailsDescription">
+<h3>Pillow Case</h3>
+<p class="gap_down">
+Custom comfort for the bedroom. This standard pillow case can be the happy new home for your pillow. Measures 30" long by 20" wide with a 2" hem. Made from 100% cotton with a thread count of T-130.
+</p>
+</div>
+<div id="producttypeDetailsSizingImage" class="left gap_down offset_right">
+<img src="http://image.spreadshirt.com/image-server/image/producttype/576/size/width/130/height/130" class="border_solid" width="130" height="130" alt="" />
+</div>
+<script type="text/javascript">
+// <![CDATA[
+function modelThumbnailMouseover(src){
+ids = src.id.split("_");
+size_id = ids[1];
+model_id = ids[2];
+if(allModelsMedium.length > 0){
+displayurl = allModelsMedium[model_id][size_id];
+mediumimage = document.getElementById('model_medium_image');
+mediumimage.src = displayurl;
+doIterate = false;
+}
+}
+function modelThumbnailMouseout(src){
+doIterate = true;
+}
+// ]]>
+</script>
+<table class="one-line-row-table product-sizes">
+<thead>
+<tr>
+<th>Size</th>
+<th>One size</th>
+</tr>
+
+</thead>
+<tbody>
+<tr >
+<td>Measure A (inch)</td>
+<td>
+20.5
+</td>
+</tr><tr class="even">
+<td>Measure B (inch)</td>
+<td>
+30.2
+</td>
+</tr>
+</tbody>
+</table>
+</div>

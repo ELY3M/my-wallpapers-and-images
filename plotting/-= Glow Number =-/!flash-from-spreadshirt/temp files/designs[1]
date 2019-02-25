@@ -1,0 +1,3081 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://api.spreadshirt.net">
+    <status>
+        <code>200</code>
+    </status>
+    <payload>
+        <designs sortOrder="desc" sortField="weight" count="256164" limit="54" offset="0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs?fullData=true">
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11542032-6" id="11542032">
+                <name>P.M.S</name>
+                <description>P.M.S</description>
+                <tags>23,Jordan,MANORS,MostDope,Swag,YMCMB,dope,gentlemen,pardon,pms</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1414943" id="1414943"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>32</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>140.758333333</width>
+                    <height>99.9066666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11542032,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#9DC8D9</default>
+                        <origin>#9DC8D9</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11542032,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <backgroundColor>#666666</backgroundColor>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000027"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>8.00</vatExcluded>
+                    <vatIncluded>8.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11542032,backgroundColor=666666" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11542032" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-09-29T23:46:35Z</created>
+                <modified>2011-11-25T21:28:58Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m2109606-6" id="2109606">
+                <name>Heart Life Bar</name>
+                <description>Collect the heart pieces, power up and try not to die without a fairy in the pocket.</description>
+                <tags>Health,gaming,heart,life bar,life meter,nintendo,retro  classic,video games</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/243692" id="243692"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>140.97</width>
+                    <height>42.968333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#8C8C8C</default>
+                        <origin>#8C8C8C</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2109606,colors[1]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2109606,colors[0]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="2">
+                        <default>#FF2202</default>
+                        <origin>#FF2202</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2109606,colors[0]=none,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000055"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.00</vatExcluded>
+                    <vatIncluded>2.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2109606" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2109606" type="montage" mediaType="png"/>
+                </resources>
+                <created>2007-08-16T23:37:26Z</created>
+                <modified>2011-11-11T10:25:23Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m320233-6" id="320233">
+                <name>I Heart</name>
+                <description>I heart...</description>
+                <tags>Brooklyn,I Heart design,I heart,I love,Maine,Sebec Lake,geography,heart,love,new york,ny,peace,places</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1" id="1"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>20</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>210.82</width>
+                    <height>116.84</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/320233,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#DA223F</default>
+                        <origin>#DA2724</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/320233,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000115"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>0.00</vatExcluded>
+                    <vatIncluded>0.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/320233" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/320233" type="montage" mediaType="png"/>
+                </resources>
+                <created>2005-09-22T16:31:22Z</created>
+                <modified>2011-11-11T10:09:57Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11103015-6" id="11103015">
+                <name>like</name>
+                <description>like</description>
+                <tags>It,Thumbs,Up,facebook,like,thumb</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1247906" id="1247906"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>26</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>217.17</width>
+                    <height>75.141666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#2C408B</default>
+                        <origin>#2C408B</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11103015" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000026"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11103015" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11103015" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-03-01T11:41:32Z</created>
+                <modified>2011-11-11T11:40:01Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10111391-6" id="10111391">
+                <name>tie necktie</name>
+                <description>necktie, tie</description>
+                <tags>necktie,tie</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/612575" id="612575"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>30</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>26.67</width>
+                    <height>104.98666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#D31818</default>
+                        <origin>#0E0D0E</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10111391" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000074"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.00</vatExcluded>
+                    <vatIncluded>2.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10111391" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10111391" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-10-03T15:08:35Z</created>
+                <modified>2011-11-11T11:05:42Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11123687-6" id="11123687">
+                <name>Question marks</name>
+                <description>Question,Question Mark</description>
+                <tags>Question Mark,question</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1305790" id="1305790"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>10</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>270.933333333</width>
+                    <height>270.933333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11123687,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#FFAA00</default>
+                        <origin>#FFAA00</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11123687,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000025"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>5.00</vatExcluded>
+                    <vatIncluded>5.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11123687" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11123687" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-03-10T13:18:04Z</created>
+                <modified>2011-12-05T23:10:57Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11664098-6" id="11664098">
+                <name>You Only Live Once YOLO - stayflyclothing.com </name>
+                <description>You Only Live Once YOLO Clothing.&#xD;
+stayflyclothing.com&#xD;
+&#xD;
+Tags - yolo, you only live once, lil wayne, drake, tattoo, shirt, tshirt, t-shirt, hoodie, motto, take care, lyrics, album, y o l o, weezy</description>
+                <tags>Drake,Lil Wayne,Tshirt,Weezy,album,hoodie,lyrics,motto,shirt,t-shirt,take care,tattoo,y o l o,yolo,you only live once</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1098053" id="1098053"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>280.035</width>
+                    <height>254.0</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11664098" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <backgroundColor>#666666</backgroundColor>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000095"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>6.50</vatExcluded>
+                    <vatIncluded>6.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11664098,backgroundColor=666666" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11664098" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-12-05T08:43:57Z</created>
+                <modified>2011-12-08T14:45:26Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11269977-6" id="11269977">
+                <name>crown</name>
+                <description>Cool Crown</description>
+                <tags>crown</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/167610" id="167610"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>51</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>118.95666666667</width>
+                    <height>86.783333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11269977" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000150"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.00</vatExcluded>
+                    <vatIncluded>2.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11269977" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11269977" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-05-13T13:44:46Z</created>
+                <modified>2011-11-11T11:47:19Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11637611-6" id="11637611">
+                <name>You Only LIve Once YOLO - stayflyclothing.com</name>
+                <description>You Only LIve Once YOLO Clothing.&#xD;
+stayflyclothing.com&#xD;
+&#xD;
+Tags - yolo, you only live once, lil wayne, drake, tattoo, shirt, tshirt, t-shirt, hoodie, motto, take care, lyrics, album, y o l o, weezy</description>
+                <tags>Drake,Lil Wayne,Tshirt,Weezy,album,hoodie,lyrics,motto,shirt,t-shirt,take care,tattoo,y o l o,yolo,you only live once</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1098053" id="1098053"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>64</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>99.9066666667</width>
+                    <height>118.956666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11637611" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <backgroundColor>#666666</backgroundColor>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000095"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>6.50</vatExcluded>
+                    <vatIncluded>6.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11637611,backgroundColor=666666" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11637611" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-11-16T19:42:48Z</created>
+                <modified>2011-11-29T20:42:56Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10350114-6" id="10350114">
+                <name>fussball</name>
+                <description>soccer</description>
+                <tags>Sport,champion,crew,fußball,soccer,sports,team,winner</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/989054" id="989054"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>75.141666666667</width>
+                    <height>75.141666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10350114" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000087"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>1.00</vatExcluded>
+                    <vatIncluded>1.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10350114" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10350114" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-02-12T18:44:57Z</created>
+                <modified>2011-11-11T11:13:24Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10597765-6" id="10597765">
+                <name>hurricane</name>
+                <description>2c</description>
+                <tags>hurricane</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/829947" id="829947"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>10</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>265.00666666667</width>
+                    <height>228.17666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#D31818</default>
+                        <origin>#D31818</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10597765,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10597765,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000105"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.00</vatExcluded>
+                    <vatIncluded>3.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10597765" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10597765" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-07-02T09:27:11Z</created>
+                <modified>2011-11-11T11:23:13Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10649582-6" id="10649582">
+                <name>run kick score soccer</name>
+                <description>Run kick and score with this bright and to the point design.  If you love soccer you'll love this run kick score soccer ball design. Great for mens and womens apparel</description>
+                <tags>futbol,girls soccer,kick,run,score,soccer,soccer team,team,womens soccer</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/726133" id="726133"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>26</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>204.25833333333</width>
+                    <height>213.78333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#FF0084</default>
+                        <origin>#FF0084</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10649582,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10649582,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000087"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10649582" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10649582" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-07-27T16:11:42Z</created>
+                <modified>2011-11-11T11:24:22Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11195902-6" id="11195902">
+                <name>Like A Boss</name>
+                <description>The internet meme, &quot;F*ck Yeah guy&quot; is a boss. Find this and many other designs at: www.islandboygear.com</description>
+                <tags>Island Boy,YouTube,a,boss,f*ck,fuck,internet,like,meme,tumblr,viral,yeah</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/329321" id="329321"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>80</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>232.62166666667</width>
+                    <height>299.93166666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11195902" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000027"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.00</vatExcluded>
+                    <vatIncluded>3.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11195902" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11195902" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-04-11T09:23:50Z</created>
+                <modified>2011-11-11T11:43:15Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11489687-6" id="11489687">
+                <name>YMCMB [OFFICIAL] </name>
+                <description>YOUNG MONEY CASH MONEY BROTHERS</description>
+                <tags>80KINGZ,DRUGS,JET LIFE,Lil Wayne,OG KUSH,POT,RX,Rap,SMOKE,SOUR DIESEL,WEED,Wiz khalifa,YMCMB,jet,lifestyle,mac miller,pop,taylor gang</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/880010" id="880010"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>42</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>280.035</width>
+                    <height>87.418333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11489687" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000095"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>5.00</vatExcluded>
+                    <vatIncluded>5.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11489687" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11489687" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-09-05T03:43:25Z</created>
+                <modified>2011-11-11T12:01:55Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10028697-6" id="10028697">
+                <name>gay</name>
+                <description>http://www.crazyshirts.org</description>
+                <tags>Dog,Humor,Sport,animals,baby,car,cars,cat,child,comic,crazy,diagram,grill,horses,manga,music,paint,party,photography,saying,sex,skateboarding,symbol,work</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/615785" id="615785"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>50</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>150.28333333333</width>
+                    <height>128.27</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#1F1A17</default>
+                        <origin>#1F1A17</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10028697,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#A9262C</default>
+                        <origin>#A9262C</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10028697,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000113"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.00</vatExcluded>
+                    <vatIncluded>3.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10028697" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10028697" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-08-20T13:41:08Z</created>
+                <modified>2011-11-11T11:03:39Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10294518-6" id="10294518">
+                <name>Cute Mad Penguin</name>
+                <description>Cute Mad Penguin</description>
+                <tags>Cute Mad Penguin</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/281338" id="281338"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>82</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>107.95</width>
+                    <height>103.08166666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10294518,colors[1]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#E5E5E5</default>
+                        <origin>#E5E5E5</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10294518,colors[0]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="2">
+                        <default>#FDFA19</default>
+                        <origin>#FDFA19</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10294518,colors[0]=none,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000108"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10294518" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10294518" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-01-12T11:59:19Z</created>
+                <modified>2011-11-11T11:12:41Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10206474-6" id="10206474">
+                <name>skiing</name>
+                <description>skiing</description>
+                <tags>Jump,Sci,esquiar,hiihtää,ski,skida,skiing,sukset,winter</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/706210" id="706210"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>55</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>144.56833333333</width>
+                    <height>220.13333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10206474" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000092"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>6.00</vatExcluded>
+                    <vatIncluded>6.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10206474" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10206474" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-11-26T12:26:17Z</created>
+                <modified>2011-11-11T11:08:00Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10264447-6" id="10264447">
+                <name>heart</name>
+                <description>heart</description>
+                <tags>heart</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/789724" id="789724"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>20</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>299.93166666667</width>
+                    <height>271.145</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#D31818</default>
+                        <origin>#D31818</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10264447" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000170"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.00</vatExcluded>
+                    <vatIncluded>2.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10264447" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10264447" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-12-23T18:35:21Z</created>
+                <modified>2011-11-11T11:10:41Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11620562-6" id="11620562">
+                <name>Christmas tree snow</name>
+                <description>snowy day &#xD;
+white christmas season holidays xmas christmas tree vector graphic illustration art </description>
+                <tags>Cold,December,Holidays,Landscape,Snow Flakes,Tree,X-mas,art,christmas tree,cold,december,graphic art,holidays,illustration,landscape,nature,season,snow,snow flakes,snowy day,tree,vector,white christmas,winter,x-mas,xmas</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1221498" id="1221498"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>28</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>197.06166666667</width>
+                    <height>99.906666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#8B99A2</default>
+                        <origin>#8B99A2</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11620562,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#CDBFE3</default>
+                        <origin>#CDBFE3</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11620562,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000079"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.00</vatExcluded>
+                    <vatIncluded>4.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11620562" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11620562" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-11-05T09:29:39Z</created>
+                <modified>2011-11-11T12:15:50Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11652696-6" id="11652696">
+                <name>Keep Calm And Take Care - stayflyclothing.com</name>
+                <description>Keep Calm And Take Care Clothing.&#xD;
+stayflyclothing.com&#xD;
+&#xD;
+Tags - drake, tshirt, hoodie, takecare, take care, take, care, new, album, lyrics, white black, headlines, they know, black, white, lil wayne, weezy, keep calm and carry on</description>
+                <tags>Black,Care,Drake,Keep calm and carry on,Lil Wayne,New,Tshirt,Weezy,White,album,headlines,hoodie,lyrics,take,take care,takecare,they know,white black</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1098053" id="1098053"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>126.576666667</width>
+                    <height>215.688333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11652696" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <backgroundColor>#666666</backgroundColor>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000095"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>6.50</vatExcluded>
+                    <vatIncluded>6.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11652696,backgroundColor=666666" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11652696" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-11-28T01:41:01Z</created>
+                <modified>2011-11-30T17:20:08Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m3221062-6" id="3221062">
+                <name>Apres-ski</name>
+                <description>Apres-ski, winter sports, wintersports, winter, ski, skier, Apres Ski, Schi, sport, sports d'hiver, sport invernali, deportes de invierno, vintersport, talviurheilu, bier, beer, biere, ski hut, skihut, Après-Ski</description>
+                <tags>Apres Ski,Wintersports,apres-ski,ski,skier,winter,winter sports</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/81392" id="81392"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>200.025</width>
+                    <height>202.98833333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3221062" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000092"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.00</vatExcluded>
+                    <vatIncluded>2.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3221062" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3221062" type="montage" mediaType="png"/>
+                </resources>
+                <created>2008-10-20T16:35:25Z</created>
+                <modified>2011-11-11T10:44:30Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10992159-6" id="10992159">
+                <name>Five Star Horse</name>
+                <description>Show your love off for horses with this neat design!</description>
+                <tags>Zoo,adventure,animal,animals,baby,cartoon,creature,cute,farm,fole,forest,hay,hoof,horse,horses,life,love,nature,neigh,outside,pony,rain,show,wild</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1142172" id="1142172"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>19</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>299.93166666667</width>
+                    <height>237.49</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10992159,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#D31818</default>
+                        <origin>#D31818</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10992159,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000184"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.00</vatExcluded>
+                    <vatIncluded>4.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10992159" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10992159" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-01-10T12:40:10Z</created>
+                <modified>2011-11-11T11:35:52Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m1126767-6" id="1126767">
+                <name>Basketball</name>
+                <description>Basketball</description>
+                <tags>Look,NBA,NCAA,Streetball,Vintage,basketball,basketball fan shirt,basketball shirt,basketball t-shirt,basketball tee,college,highschool,nba shirt,nba t-shirt,retro,sports</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/83469" id="83469"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>90</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>144.99166666667</width>
+                    <height>124.03666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#D31818</default>
+                        <origin>#131516</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/1126767" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000091"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.00</vatExcluded>
+                    <vatIncluded>4.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/1126767" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/1126767" type="montage" mediaType="png"/>
+                </resources>
+                <created>2006-11-20T21:06:28Z</created>
+                <modified>2011-11-11T10:19:34Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11494619-6" id="11494619">
+                <name>snowflake</name>
+                <description>snowflake</description>
+                <tags>Ice Crystal,Snowflakes,christmas,holiday,holiday season,ice,season,skiing,snow,snowboarding,snowflake,winter,xmas</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/877081" id="877081"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>32</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>99.9066666667</width>
+                    <height>112.395</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11494619" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000079"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>0.99</vatExcluded>
+                    <vatIncluded>0.99</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11494619" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11494619" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-09-07T17:17:46Z</created>
+                <modified>2011-12-11T15:53:27Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m3687346-6" id="3687346">
+                <name>Flames</name>
+                <description>Flames</description>
+                <tags>fire,flame,flames,hot</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/379846" id="379846"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>25</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>85.513333333333</width>
+                    <height>147.74333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#1F1A17</default>
+                        <origin>#1F1A17</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3687346" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000151"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.00</vatExcluded>
+                    <vatIncluded>2.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3687346" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3687346" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-05-23T09:39:13Z</created>
+                <modified>2011-11-11T10:56:21Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m3744719-6" id="3744719">
+                <name>beer</name>
+                <description>beer</description>
+                <tags>beer</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/706170" id="706170"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>44</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>104.35166666667</width>
+                    <height>147.32</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3744719,colors[1]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#E5E5E5</default>
+                        <origin>#E5E5E5</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3744719,colors[0]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="2">
+                        <default>#FDFA19</default>
+                        <origin>#FDFA19</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3744719,colors[0]=none,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000029"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.00</vatExcluded>
+                    <vatIncluded>4.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3744719" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3744719" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-06-19T18:47:47Z</created>
+                <modified>2011-11-11T10:59:22Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10092727-6" id="10092727">
+                <name>Dog Paws</name>
+                <description>Dog Paws</description>
+                <tags>Dirt,Dog,Feet,Foot,dogs,mud,paw,paws,pet,print</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/344747" id="344747"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>33</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>110.27833333333</width>
+                    <height>176.95333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#97A09A</default>
+                        <origin>#97A09A</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10092727" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000102"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.00</vatExcluded>
+                    <vatIncluded>3.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10092727" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10092727" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-09-23T15:52:18Z</created>
+                <modified>2011-11-11T11:05:58Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10584290-6" id="10584290">
+                <name>Cow</name>
+                <description>Cows are both delicious and nutritious! </description>
+                <tags>Beef,Food,JDavila,Moo,bovine,bull,cattle,cow,hooves,milk,red meat,utter</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/978079" id="978079"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>64</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>123.825</width>
+                    <height>70.696666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#D31818</default>
+                        <origin>#D31818</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10584290" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000109"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>1.00</vatExcluded>
+                    <vatIncluded>1.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10584290" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10584290" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-06-24T20:15:36Z</created>
+                <modified>2011-11-11T11:23:29Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11559698-6" id="11559698">
+                <name>Cool Story Bro</name>
+                <description>Cool Story Bro</description>
+                <tags>Lame,cool story bro,sarcasm,sarcastic</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1107633" id="1107633"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>28</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>127.846666667</width>
+                    <height>99.9066666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11559698" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000021"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11559698" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11559698" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-10-07T18:15:11Z</created>
+                <modified>2011-11-27T07:41:49Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11655681-6" id="11655681">
+                <name>You Only Live Once YOLO - stayflyclothing.com </name>
+                <description>You Only LIve Once YOLO Clothing.&#xD;
+stayflyclothing.com&#xD;
+&#xD;
+Tags - yolo, you only live once, lil wayne, drake, tattoo, shirt, tshirt, t-shirt, hoodie, motto, take care, lyrics, album, y o l o, weezy</description>
+                <tags>Drake,Lil Wayne,Tshirt,Weezy,album,hoodie,lyrics,motto,shirt,t-shirt,take care,tattoo,y o l o,yolo,you only live once</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1098053" id="1098053"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>218.228333333</width>
+                    <height>277.283333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11655681" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <backgroundColor>#666666</backgroundColor>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000095"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>6.50</vatExcluded>
+                    <vatIncluded>6.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11655681,backgroundColor=666666" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11655681" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-11-29T20:41:09Z</created>
+                <modified>2011-12-02T18:40:52Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m3245857-6" id="3245857">
+                <name>Beer</name>
+                <description>Beer</description>
+                <tags>Oktoberfest,alc,alcohol,beer,booze,boozer,glas,jug,octoberfest</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/553725" id="553725"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>35</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>165.1</width>
+                    <height>212.93666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#C2C2C2</default>
+                        <origin>#C2C2C2</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3245857,colors[1]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#383535</default>
+                        <origin>#383535</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3245857,colors[0]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="2">
+                        <default>#FFD728</default>
+                        <origin>#FFD728</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3245857,colors[0]=none,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000029"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>5.00</vatExcluded>
+                    <vatIncluded>5.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3245857" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3245857" type="montage" mediaType="png"/>
+                </resources>
+                <created>2008-10-31T14:40:41Z</created>
+                <modified>2011-11-11T10:46:26Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11543668-6" id="11543668">
+                <name>Swag</name>
+                <description>Swag University</description>
+                <tags>Drake,Lil Wayne,NICKI MINAJ,Swag,Swag University,Swagger,college,university,young money</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/281338" id="281338"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>280.035</width>
+                    <height>154.305</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11543668" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000022"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11543668" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11543668" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-09-30T18:21:47Z</created>
+                <modified>2011-11-11T12:06:27Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10050920-6" id="10050920">
+                <name>handherz2</name>
+                <description>hands</description>
+                <tags>Birthday,Cool,Dear,Guy,Style,affection,amatory,amorous,boy,erotic,friend,gift,girlfriend,hand,hands,heart,hearts,kid,kids,love,sign</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/862119" id="862119"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>10</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>281.94</width>
+                    <height>139.065</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10050920" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000201"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10050920" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10050920" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-08-31T20:01:24Z</created>
+                <modified>2011-11-11T11:02:46Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10051065-6" id="10051065">
+                <name>Crosshairs - Gun</name>
+                <description>Crosshairs - Gun - Weapon - Shot - Gangster</description>
+                <tags>Blood,Gangster,Humor,Shot,army,crosshairs,gun,hunter,paintball,rifle,shoot,soldier,troops,weapon</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/521091" id="521091"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>20</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>202.77666666667</width>
+                    <height>201.93</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10051065" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000019"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.99</vatExcluded>
+                    <vatIncluded>2.99</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10051065" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10051065" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-08-31T21:17:01Z</created>
+                <modified>2011-11-11T11:02:46Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10065798-6" id="10065798">
+                <name>bear_1c</name>
+                <description>bear</description>
+                <tags>BROWN BEAR,Rocky Mountains,Russia,bear,california,claw,grizzley,grizzly,rockies,shirt,stock exchange,sweat-shirt,sweater,t-shirt,teddy,wild</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/648197" id="648197"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>128.27</width>
+                    <height>79.375</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10065798" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000109"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.00</vatExcluded>
+                    <vatIncluded>4.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10065798" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10065798" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-09-08T18:57:18Z</created>
+                <modified>2011-11-11T11:04:51Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10386644-6" id="10386644">
+                <name>Baby Pacifier</name>
+                <description>Baby Pacifier</description>
+                <tags>Napp,Sauger,Zitze,baby,bébé,chupeta,chupon,ciuccio,nipple,pacifier,schnuller,smoczek,smokk,sucette,sut,teat,teta,tetas,tettarella,tutti,tétine,vauva</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/344747" id="344747"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>23</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>94.403333333333</width>
+                    <height>93.133333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10386644,colors[1]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#FFA1B7</default>
+                        <origin>#FFA1B7</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10386644,colors[0]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="2">
+                        <default>#C30050</default>
+                        <origin>#C30050</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10386644,colors[0]=none,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000042"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10386644" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10386644" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-03-03T13:22:30Z</created>
+                <modified>2011-11-11T11:14:36Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10431563-6" id="10431563">
+                <name>Wheat</name>
+                <description>Stylized stalks of wheat. Nice curves. Should look good with metallics.</description>
+                <tags>Farms,Food,Stylized,agriculture,botany,bread,decorative,farming,floral,food chain,harvest,nature,sustainability,wheat,wheat stalks</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1006208" id="1006208"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>37</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>177.58833333333</width>
+                    <height>242.57</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10431563" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000150"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>5.00</vatExcluded>
+                    <vatIncluded>5.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10431563" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10431563" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-03-31T12:48:37Z</created>
+                <modified>2011-11-11T11:18:06Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11349483-6" id="11349483">
+                <name>Pomeranian Dog</name>
+                <description>Pomeranian Dog</description>
+                <tags>Pomeranian Dog,Pomeranian Dogs,Pomeranians,pomeranian dog t-shirt,pomeranian dog t-shirts,pomeranian shirt,pomeranian shirts,pomeranian t-shirt,pomeranian t-shirts</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/10885" id="10885"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>5</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>197.90833333333</width>
+                    <height>190.5</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11349483" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000102"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.00</vatExcluded>
+                    <vatIncluded>4.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11349483" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11349483" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-06-24T18:20:52Z</created>
+                <modified>2011-11-11T11:51:18Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11599121-6" id="11599121">
+                <name>Dope</name>
+                <description>Dope by 80kingz many color variations available</description>
+                <tags>80KINGZ,Cash,JET LIFE,Justin,Lil Wayne,Logo,Money,PIFFSBURGH,Pixel,Pop,Rap,SOUR DIESEL,Swag,YMCMB,baby,bieber,brothers,jet,lifestyle,mac miller,music,taylor gang,usher,wiz khalifa,young</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/880010" id="880010"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>15</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>243.84</width>
+                    <height>99.906666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11599121" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000033"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.00</vatExcluded>
+                    <vatIncluded>4.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11599121" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11599121" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-10-25T12:11:08Z</created>
+                <modified>2011-11-11T12:14:32Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11610718-6" id="11610718">
+                <name>SWAG - stayflyclothing.com</name>
+                <description>SWAG Clothing.&#xD;
+stayflyclothing.com&#xD;
+&#xD;
+Tags - Drake, Lil Wayne, taylor gang, golf wang, wolf gang, shirt, Black, swagg, music, lyrics, LMFAO, Party Rock, wiz khalifa, hoodie</description>
+                <tags>Black,Drake,LMFAO,Lil Wayne,Party Rock,golf wang,hoodie,lyrics,music,shirt,swagg,taylor gang,wiz khalifa,wolf gang</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1098053" id="1098053"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>34</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>99.9066666667</width>
+                    <height>105.833333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11610718" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <backgroundColor>#666666</backgroundColor>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000095"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>6.50</vatExcluded>
+                    <vatIncluded>6.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11610718,backgroundColor=666666" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11610718" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-10-30T19:19:24Z</created>
+                <modified>2011-11-25T23:34:27Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m3481300-6" id="3481300">
+                <name>Cross Country</name>
+                <description>Cross Country Design.</description>
+                <tags>cc,cross country,long distance,running</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/726133" id="726133"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>47</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>84.666666666667</width>
+                    <height>40.851666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3481300" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000093"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.50</vatExcluded>
+                    <vatIncluded>2.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3481300" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/3481300" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-02-20T17:36:27Z</created>
+                <modified>2011-11-11T10:50:23Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10200622-6" id="10200622">
+                <name>sheep</name>
+                <description>a sheep</description>
+                <tags>christmas,fat,funny,music,rock,sheep,xmas</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/625125" id="625125"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>76</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>56.515</width>
+                    <height>63.711666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10200622,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#E5E5E5</default>
+                        <origin>#E5E5E5</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10200622,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000027"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.50</vatExcluded>
+                    <vatIncluded>2.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10200622" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10200622" type="montage" mediaType="png"/>
+                </resources>
+                <created>2009-11-23T08:09:06Z</created>
+                <modified>2011-11-11T11:08:17Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10427239-6" id="10427239">
+                <name>hand sign two (1c)</name>
+                <description>gesture for more - two or frame a picture - gesture close up</description>
+                <tags>2,Close up,Movies,frame,gesture,hand,more,photography,two</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/644955" id="644955"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>16</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>67.098333333333</width>
+                    <height>62.018333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#FFA1B7</default>
+                        <origin>#FFA1B7</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10427239" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000150"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10427239" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10427239" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-03-29T01:09:30Z</created>
+                <modified>2011-11-11T11:18:03Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10441724-6" id="10441724">
+                <name>Ping pong</name>
+                <description>Ping-pong</description>
+                <tags>ping,pong</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/521091" id="521091"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>28</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>193.46333333333</width>
+                    <height>170.18</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#8B7426</default>
+                        <origin>#8B7426</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10441724" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000093"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.99</vatExcluded>
+                    <vatIncluded>4.99</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10441724" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10441724" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-04-06T20:51:29Z</created>
+                <modified>2011-11-11T11:17:38Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m10678904-6" id="10678904">
+                <name>Horse pony riding horse gallop</name>
+                <description>Horse</description>
+                <tags>Competition,Haflinger,Hanoverian,Icelandic,Mustang,Trakehner,dressage,foal,gallop,gelding,hooves,horse,horse riding,horseshoe,mare,pony,rider,riding,riding club,show jumping,stall,stallion,tinker,tournament,western riding</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/862398" id="862398"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>24</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>96.096666666667</width>
+                    <height>61.383333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#F36916</default>
+                        <origin>#F36916</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10678904" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000184"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.99</vatExcluded>
+                    <vatIncluded>2.99</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10678904" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/10678904" type="montage" mediaType="png"/>
+                </resources>
+                <created>2010-08-10T10:55:51Z</created>
+                <modified>2011-11-11T11:26:17Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11062248-6" id="11062248">
+                <name>I Love Christmas</name>
+                <description>I Love Christmas design for your Christmas Outfit; shirt or sweater!</description>
+                <tags>12630413,2010,2011,2012,2013,Birthday,Fun,I love,Santa Claus,Shirley,Silvester,X-mas,christmas,crazy,eve,happy,lightning,love,merry,new year,nye,party,santa,sylvester,xmas</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1275542" id="1275542"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>65</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>204.04666666667</width>
+                    <height>157.48</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11062248,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#D41C3B</default>
+                        <origin>#D41C3B</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11062248,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000079"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.00</vatExcluded>
+                    <vatIncluded>3.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11062248" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11062248" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-02-09T09:19:40Z</created>
+                <modified>2011-11-11T11:38:58Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11292682-6" id="11292682">
+                <name>brain2</name>
+                <description>............</description>
+                <tags>Computer,Parts,Question Mark,Wii,brain,brain-jogging,brains,coach training,ds,dsi,head,menalive44,puzzle,puzzle pieces,puzzles,question,riddles</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1402365" id="1402365"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>69.215</width>
+                    <height>51.858333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11292682" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000025"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>4.00</vatExcluded>
+                    <vatIncluded>4.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11292682" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11292682" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-05-25T07:55:26Z</created>
+                <modified>2011-11-11T11:46:30Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11404233-6" id="11404233">
+                <name>heart</name>
+                <description>heart</description>
+                <tags>amor,heart,love</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1276089" id="1276089"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>17</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>299.93166666667</width>
+                    <height>287.44333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#FFA1B7</default>
+                        <origin>#FFA1B7</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11404233" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000170"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>2.00</vatExcluded>
+                    <vatIncluded>2.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11404233" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11404233" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-07-25T21:49:20Z</created>
+                <modified>2011-11-11T11:53:03Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11541836-6" id="11541836">
+                <name>Hand</name>
+                <description>Hand</description>
+                <tags>disney,finger gun,gun,hand,hands,mickey,mickey mouse,mouse,point,pointing</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1107633" id="1107633"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>38</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>117.263333333</width>
+                    <height>99.9066666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11541836,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#E5E5E5</default>
+                        <origin>#E5E5E5</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11541836,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000028"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11541836" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11541836" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-09-29T22:19:16Z</created>
+                <modified>2011-11-27T07:41:50Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11541865-6" id="11541865">
+                <name>swag</name>
+                <description>swag</description>
+                <tags>Drake,Lil Wayne,NICKI MINAJ,Swag,Swagger,young money</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1107633" id="1107633"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>48</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>144.78</width>
+                    <height>99.9066666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#D31818</default>
+                        <origin>#D31818</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11541865,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11541865,colors[0]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000095"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>3.50</vatExcluded>
+                    <vatIncluded>3.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11541865" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11541865" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-09-29T22:25:05Z</created>
+                <modified>2011-11-27T07:41:50Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11563460-6" id="11563460">
+                <name>cute reindeer with red nose and Christmas presents </name>
+                <description>A cute reindeer with red nose and Christmas presents&#xD;
+A red Christmas ball hanging on the antlers</description>
+                <tags>Christmas-gifts,Santa Claus,antlers,celebrate,christmas,cute,decorations,gifts,hooves,nose,red,reindeer,rudolph,tie</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1035469" id="1035469"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>104.98666666667</width>
+                    <height>128.905</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#512D0A</default>
+                        <origin>#512D0A</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11563460,colors[1]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#97A09A</default>
+                        <origin>#97A09A</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11563460,colors[0]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="2">
+                        <default>#D31818</default>
+                        <origin>#D31818</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11563460,colors[0]=none,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000079"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>5.00</vatExcluded>
+                    <vatIncluded>5.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11563460" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11563460" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-10-09T12:51:38Z</created>
+                <modified>2011-11-11T12:11:30Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11610899-6" id="11610899">
+                <name>0V0X0 - stayflyclothing.com</name>
+                <description>0V0X0 Clothing.&#xD;
+stayflyclothing.com&#xD;
+&#xD;
+Tags - Drake, , shirt, group, new, exclusive, hiphop, hip, hop, rap, hoodies, hoodie, lil wayne, like, wayne, official, exclusive, clothing, ovo, fest, omega, xo</description>
+                <tags>Drake,Exclusive,HipHop,Lil Wayne,New,Rap,Wayne,clothing,fest,group,hip,hoodie,hoodies,hop,like,official,omega,ovo,shirt,xo</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1098053" id="1098053"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>34</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>99.906666666667</width>
+                    <height>105.83333333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11610899" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <backgroundColor>#666666</backgroundColor>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000095"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>6.50</vatExcluded>
+                    <vatIncluded>6.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11610899,backgroundColor=666666" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11610899" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-10-30T20:46:46Z</created>
+                <modified>2011-11-11T12:16:48Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m11644151-6" id="11644151">
+                <name>Happy new year 2012</name>
+                <description>Happy new year 2012</description>
+                <tags>2012,Happy new year,new year</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/1688445" id="1688445"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>204.47</width>
+                    <height>127.423333333</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#FF0084</default>
+                        <origin>#FF0084</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11644151,colors[1]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="1">
+                        <default>#E5E5E5</default>
+                        <origin>#E5E5E5</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11644151,colors[0]=none,colors[2]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color layer="2">
+                        <default>#9DC8D9</default>
+                        <origin>#9DC8D9</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11644151,colors[0]=none,colors[1]=none" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000084"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>1.00</vatExcluded>
+                    <vatIncluded>1.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11644151" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/11644151" type="montage" mediaType="png"/>
+                </resources>
+                <created>2011-11-21T16:19:37Z</created>
+                <modified>2011-11-23T19:32:11Z</modified>
+            </design>
+            <design xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/designs/m2711550-6" id="2711550">
+                <name>Don't Trust the Squirrels</name>
+                <description>From WastedTalent: Don't trust the squirrels!</description>
+                <tags>squirrel,university,wasted talent</tags>
+                <user xlink:href="http://www.spreadshirt.com/api/v1/users/55641" id="55641"/>
+                <creator>userArea</creator>
+                <restrictions>
+                    <fixedColors>false</fixedColors>
+                    <ownText>true</ownText>
+                    <obligatory>false</obligatory>
+                    <movable>true</movable>
+                    <targetView>0</targetView>
+                    <minimumScale>100</minimumScale>
+                    <visible>true</visible>
+                    <inverted>false</inverted>
+                </restrictions>
+                <size unit="mm">
+                    <width>291.04166666667</width>
+                    <height>284.05666666667</height>
+                </size>
+                <colors>
+                    <color layer="0">
+                        <default>#000000</default>
+                        <origin>#000000</origin>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2711550" type="montage" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                </printTypes>
+                <designCategories>
+                    <designCategory id="1000027"/>
+                </designCategories>
+                <price>
+                    <vatExcluded>1.63</vatExcluded>
+                    <vatIncluded>1.63</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+                <resources>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2711550" type="preview" mediaType="png"/>
+                    <resource xlink:href="http://image.spreadshirt.com/image-server/v1/designs/2711550" type="montage" mediaType="png"/>
+                </resources>
+                <created>2008-03-21T07:25:05Z</created>
+                <modified>2011-11-11T10:34:55Z</modified>
+            </design>
+        </designs>
+    </payload>
+</response>

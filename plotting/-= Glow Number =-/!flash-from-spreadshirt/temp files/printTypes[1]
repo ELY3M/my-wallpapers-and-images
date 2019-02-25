@@ -1,0 +1,2380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://api.spreadshirt.net">
+    <status>
+        <code>200</code>
+    </status>
+    <payload>
+        <printTypes sortOrder="default" sortField="default" count="8" limit="1000" offset="0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes?fullData=true">
+            <printType weight="1.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14">
+                <name>Flex Print</name>
+                <description>Characteristics of Flex:&#xD;
+- high durability&#xD;
+- no color-fading in the laundry&#xD;
+- smooth, even surface of the print&#xD;
+- to be ironed inside out, do not iron directly on the print&#xD;
+&#xD;
+Flex retains its colors long throughout a life of regular washing at 40°C. As with all printed fabrics, please wash and iron inside-out. &#xD;
+&#xD;
+Flex compared to Flock:&#xD;
+Both techniques have the same high standards in regard to quality, that is, maximum durability and no color fading. Only difference is the look and feel of the material. While Flex is very smooth, Flock is a little bit fluffy. &#xD;
+&#xD;
+Details of print Technique: &#xD;
+A large computerized blade is used to cut designs out of a smooth, thin material. This design is then pressed onto the fabric, using high pressure and temperatures. This print type is suitable for almost all fabric types and due to its sleek and shiny surface, looks and feels amazing.</description>
+                <size unit="mm">
+                    <width>380.0</width>
+                    <height>380.0</height>
+                </size>
+                <dpi>120.0</dpi>
+                <colors>
+                    <color weight="1.0" id="13">
+                        <name>black</name>
+                        <fill>#000000</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/13" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="2.0" id="12">
+                        <name>white</name>
+                        <fill>#FFFFFF</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/12" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="3.0" id="104">
+                        <name>cream</name>
+                        <fill>#FEF0BA</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/104" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="4.0" id="18">
+                        <name>yellow</name>
+                        <fill>#FDFA19</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/18" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="6.0" id="19">
+                        <name>gold (non metallic)</name>
+                        <fill>#FFD202</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/19" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="8.0" id="69">
+                        <name>orange</name>
+                        <fill>#F36916</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/69" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="10.0" id="103">
+                        <name>maroon</name>
+                        <fill>#5B0B20</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/103" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="11.0" id="84">
+                        <name>chocolate</name>
+                        <fill>#512D0A</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/84" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="12.0" id="20">
+                        <name>red</name>
+                        <fill>#D31818</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/20" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="13.0" id="85">
+                        <name>magenta</name>
+                        <fill>#C30050</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/85" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="15.0" id="135">
+                        <name>pink</name>
+                        <fill>#FFA1B7</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/135" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="16.0" id="172">
+                        <name>lavender</name>
+                        <fill>#CDBFE3</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/172" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="17.0" id="87">
+                        <name>purple</name>
+                        <fill>#551B76</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/87" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="18.0" id="36">
+                        <name>navy</name>
+                        <fill>#141754</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/36" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="19.0" id="15">
+                        <name>royal blue</name>
+                        <fill>#2C408B</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/15" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="21.0" id="167">
+                        <name>powder blue</name>
+                        <fill>#9DC8D9</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/167" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="23.0" id="21">
+                        <name>green</name>
+                        <fill>#007D44</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/21" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="23.0" id="89">
+                        <name>forest green</name>
+                        <fill>#214728</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/89" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="24.0" id="102">
+                        <name>teal</name>
+                        <fill>#007E80</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/102" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="25.0" id="173">
+                        <name>light green</name>
+                        <fill>#B7ED6F</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/173" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="34.0" id="71">
+                        <name>metallic silver</name>
+                        <fill>#8B99A2</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/71" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="35.0" id="22">
+                        <name>silver grey</name>
+                        <fill>#97A09A</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/22" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="37.0" id="70">
+                        <name>metallic gold</name>
+                        <fill>#8B7426</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="12"/>
+<printableAbovePrintColor id="13"/>
+<printableAbovePrintColor id="15"/>
+<printableAbovePrintColor id="17"/>
+<printableAbovePrintColor id="18"/>
+<printableAbovePrintColor id="19"/>
+<printableAbovePrintColor id="20"/>
+<printableAbovePrintColor id="21"/>
+<printableAbovePrintColor id="22"/>
+<printableAbovePrintColor id="36"/>
+<printableAbovePrintColor id="69"/>
+<printableAbovePrintColor id="70"/>
+<printableAbovePrintColor id="71"/>
+<printableAbovePrintColor id="75"/>
+<printableAbovePrintColor id="83"/>
+<printableAbovePrintColor id="84"/>
+<printableAbovePrintColor id="85"/>
+<printableAbovePrintColor id="87"/>
+<printableAbovePrintColor id="89"/>
+<printableAbovePrintColor id="102"/>
+<printableAbovePrintColor id="103"/>
+<printableAbovePrintColor id="104"/>
+<printableAbovePrintColor id="135"/>
+<printableAbovePrintColor id="162"/>
+<printableAbovePrintColor id="167"/>
+<printableAbovePrintColor id="172"/>
+<printableAbovePrintColor id="173"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/70" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <restrictions>
+                    <colorSpace>print_colors</colorSpace>
+                    <whiteSupported>true</whiteSupported>
+                    <transparencySupported>true</transparencySupported>
+                    <scaleability>enlargeable</scaleability>
+                    <printableAlongWithPrintTypes>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAlongWithPrintTypes>
+                    <printableAbovePrintTypes>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAbovePrintTypes>
+                    <maxPrintColorLayers>3</maxPrintColorLayers>
+                </restrictions>
+                <price>
+                    <vatExcluded>0.50</vatExcluded>
+                    <vatIncluded>0.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+            </printType>
+            <printType weight="2.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2">
+                <name>Flock Print</name>
+                <description>Characteristics of Flock:&#xD;
+- high durability&#xD;
+- no color-fading in the laundry&#xD;
+- fluffy, velvet like surface&#xD;
+&#xD;
+Flock retains its colors long throughout a life of regular washing at 40°C.&#xD;
+&#xD;
+Flex compared to Flock:&#xD;
+Both techniques have the same high standards in regard to quality, that is, maximum durability and no color fading. Only difference is the look and feel of the material. While Flex is very smooth, Flock is a little bit fluffy. &#xD;
+&#xD;
+Details of print Technique: &#xD;
+A large computerized blade is used to cut designs out of a smooth, thin material. This design is then pressed onto the fabric, using high pressure and temperatures. This print type is suitable for almost all fabric types and due to its fluffy velvet-like surface, looks and feels amazing.</description>
+                <size unit="mm">
+                    <width>380.0</width>
+                    <height>380.0</height>
+                </size>
+                <dpi>120.0</dpi>
+                <colors>
+                    <color weight="1.0" id="2">
+                        <name>black</name>
+                        <fill>#000000</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/2" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="2.0" id="1">
+                        <name>white</name>
+                        <fill>#FFFFFF</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/1" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="3.0" id="106">
+                        <name>sand</name>
+                        <fill>#E0B075</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/106" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="4.0" id="105">
+                        <name>chocolate</name>
+                        <fill>#644237</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/105" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="5.0" id="10">
+                        <name>yellow</name>
+                        <fill>#FFF500</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/10" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="6.0" id="4">
+                        <name>gold</name>
+                        <fill>#FCD816</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/4" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="7.0" id="8">
+                        <name>orange</name>
+                        <fill>#E35110</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/8" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="8.0" id="5">
+                        <name>red</name>
+                        <fill>#C01D20</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/5" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="9.0" id="26">
+                        <name>magenta</name>
+                        <fill>#C82E7F</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/26" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="10.0" id="96">
+                        <name>light pink</name>
+                        <fill>#E7C9D9</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/96" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="12.0" id="24">
+                        <name>purple</name>
+                        <fill>#521973</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/24" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="13.0" id="74">
+                        <name>navy</name>
+                        <fill>#141754</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/74" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="14.0" id="3">
+                        <name>royal blue</name>
+                        <fill>#192F97</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/3" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="15.0" id="23">
+                        <name>light blue</name>
+                        <fill>#0091D3</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/23" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="16.0" id="168">
+                        <name>aqua</name>
+                        <fill>#41B7C2</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/168" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="17.0" id="6">
+                        <name>green</name>
+                        <fill>#008751</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/6" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="19.0" id="7">
+                        <name>silver grey</name>
+                        <fill>#929694</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+<printableAbovePrintColor id="186"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/7" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="33.0" id="186">
+                        <name>neon deep orange</name>
+                        <fill>#F00500</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors>
+<printableAbovePrintColor id="1"/>
+<printableAbovePrintColor id="2"/>
+<printableAbovePrintColor id="3"/>
+<printableAbovePrintColor id="4"/>
+<printableAbovePrintColor id="5"/>
+<printableAbovePrintColor id="6"/>
+<printableAbovePrintColor id="7"/>
+<printableAbovePrintColor id="8"/>
+<printableAbovePrintColor id="10"/>
+<printableAbovePrintColor id="23"/>
+<printableAbovePrintColor id="24"/>
+<printableAbovePrintColor id="26"/>
+<printableAbovePrintColor id="74"/>
+<printableAbovePrintColor id="96"/>
+<printableAbovePrintColor id="105"/>
+<printableAbovePrintColor id="106"/>
+<printableAbovePrintColor id="168"/>
+                            </printableAbovePrintColors>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/186" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <restrictions>
+                    <colorSpace>print_colors</colorSpace>
+                    <whiteSupported>true</whiteSupported>
+                    <transparencySupported>true</transparencySupported>
+                    <scaleability>enlargeable</scaleability>
+                    <printableAlongWithPrintTypes>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAlongWithPrintTypes>
+                    <printableAbovePrintTypes>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAbovePrintTypes>
+                    <maxPrintColorLayers>3</maxPrintColorLayers>
+                </restrictions>
+                <price>
+                    <vatExcluded>0.50</vatExcluded>
+                    <vatIncluded>0.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+            </printType>
+            <printType weight="3.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17">
+                <name>Digital Direct</name>
+                <description>Digital Direct Printing uses superior textile ink, which was specifically formulated to work with a variety of textile applications. This technology allows us to print ink directly onto the apparel without using transfers. Digital Direct Printing produces a soft, smooth, and comfortable feel to the touch. Since the design is embedded into the fabric, it will move with the shirt. There is less risk of cracking as compared to screen printing. This print type is the ideal way to display color photographs and or multi color designs with all color shades on to your apparel.&#xD;
+&#xD;
+Care Instructions:&#xD;
+* T-shirts should be washed inside out and set on a gentle machine cycle in cold water.&#xD;
+* To avoid any form of fading, machine drying is not recommended.&#xD;
+* Lay flat to dry&#xD;
+* Dry cleaning is not recommended</description>
+                <size unit="mm">
+                    <width>350.0</width>
+                    <height>450.0</height>
+                </size>
+                <dpi>120.0</dpi>
+                <colors/>
+                <restrictions>
+                    <colorSpace>cmyk</colorSpace>
+                    <whiteSupported>false</whiteSupported>
+                    <transparencySupported>true</transparencySupported>
+                    <scaleability>shrinkable</scaleability>
+                    <printableAlongWithPrintTypes>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAlongWithPrintTypes>
+                    <printableAbovePrintTypes>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAbovePrintTypes>
+                    <maxPrintColorLayers>3</maxPrintColorLayers>
+                </restrictions>
+                <price>
+                    <vatExcluded>4.50</vatExcluded>
+                    <vatIncluded>4.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+            </printType>
+            <printType weight="5.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16">
+                <name>Specialty Flex Print</name>
+                <description>Specialty Flex can only be used in 1 color designs and cannot be overlapped with other designs. If a basic flex and specialty flex are selected for the same design, the design will default to the specialty flex or the basic flex.&#xD;
+&#xD;
+Characteristics of Specialty Flex:&#xD;
+- no color-fading in the laundry&#xD;
+- smooth, even surface of the print&#xD;
+- to be ironed inside out, do not iron directly on the print&#xD;
+&#xD;
+Flex retains its colors long throughout a life of regular washing at 40°C. As with all printed fabrics, please wash and iron inside-out. &#xD;
+&#xD;
+Details of print Technique: &#xD;
+A large computerized blade is used to cut designs out of a smooth, thin material. This design is then pressed onto the fabric, using high pressure and temperatures. This print type is suitable for only 100% cotton fabric types and due to its sleek and shiny surface, looks and feels amazing.</description>
+                <size unit="mm">
+                    <width>301.0</width>
+                    <height>301.0</height>
+                </size>
+                <dpi>120.0</dpi>
+                <colors>
+                    <color weight="1.0" id="177">
+                        <name>purple shimmer</name>
+                        <fill>#614578</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/177" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="1.0" id="178">
+                        <name>blue shimmer</name>
+                        <fill>#233B8C</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/178" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="1.0" id="179">
+                        <name>red shimmer</name>
+                        <fill>#B5160C</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/179" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="1.0" id="181">
+                        <name>lime shimmer</name>
+                        <fill>#CEDD63</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/181" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="6.0" id="97">
+                        <name>blue glitz</name>
+                        <fill>#2F3CA4</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/97" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="7.0" id="98">
+                        <name>green glitz</name>
+                        <fill>#448E1D</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/98" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="8.0" id="100">
+                        <name>gold glitz</name>
+                        <fill>#745421</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/100" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="9.0" id="101">
+                        <name>silver glitz</name>
+                        <fill>#A8A8A8</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/101" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="10.0" id="137">
+                        <name>pink glitz</name>
+                        <fill>#CA876E</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/137" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="11.0" id="136">
+                        <name>purple glitz</name>
+                        <fill>#910A93</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/136" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="12.0" id="99">
+                        <name>red glitz</name>
+                        <fill>#BF1A1A</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/99" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="13.0" id="140">
+                        <name>black glitz</name>
+                        <fill>#041128</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/140" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="17.0" id="90">
+                        <name>glow in the dark</name>
+                        <fill>#E3FFD4</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/90" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="18.0" id="142">
+                        <name>camo</name>
+                        <fill>#888073</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/142" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="20.0" id="162">
+                        <name>neon orange</name>
+                        <fill>#FFAA00</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/162" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="21.0" id="83">
+                        <name>neon pink</name>
+                        <fill>#FF0084</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/83" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="22.0" id="17">
+                        <name>neon yellow</name>
+                        <fill>#D2FF00</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/17" mediaType="png"/>
+                        </resources>
+                    </color>
+                    <color weight="22.0" id="75">
+                        <name>neon green</name>
+                        <fill>#00FF00</fill>
+                        <price>
+                            <vatExcluded>2.50</vatExcluded>
+                            <vatIncluded>2.50</vatIncluded>
+                            <vat>0.00</vat>
+                            <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                        </price>
+                        <restrictions>
+                            <simplifiedFill>false</simplifiedFill>
+                            <printableAbovePrintColors/>
+                        </restrictions>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/printColors/75" mediaType="png"/>
+                        </resources>
+                    </color>
+                </colors>
+                <restrictions>
+                    <colorSpace>print_colors</colorSpace>
+                    <whiteSupported>true</whiteSupported>
+                    <transparencySupported>true</transparencySupported>
+                    <scaleability>enlargeable</scaleability>
+                    <printableAlongWithPrintTypes>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAlongWithPrintTypes>
+                    <printableAbovePrintTypes>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAbovePrintTypes>
+                    <maxPrintColorLayers>3</maxPrintColorLayers>
+                </restrictions>
+                <price>
+                    <vatExcluded>0.50</vatExcluded>
+                    <vatIncluded>0.50</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+            </printType>
+            <printType weight="6.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1">
+                <name>Digital Transfer</name>
+                <description>Print technology:&#xD;
+&#xD;
+Digital transfer is a well-known print technique often used in copy and photo centers, and other commercial fabric-printing facilities. In this process, an original is created using a color laser printer, then with the help of transfer-film and high temperatures, the design is gently melted onto the fabric. This print type is especially suitable for multi-colored designs or designs with a varying color tone. The disadvantage is that only white or pale gray fabric can be used. &#xD;
+&#xD;
+The wash temperature for any digital transfer should be no higher than 86°F,  and all products should be washed and ironed inside-out. Spreadshirt uses the highest quality, state-of-the-art transfer films. However, we are constantly improving the wash quality of our transfers. We generally accept that digitally transferred colors fade with time, especially in black areas, but ironing inside out over the design has been proven to refresh colors.</description>
+                <size unit="mm">
+                    <width>280.0</width>
+                    <height>400.0</height>
+                </size>
+                <dpi>120.0</dpi>
+                <colors/>
+                <restrictions>
+                    <colorSpace>cmyk</colorSpace>
+                    <whiteSupported>false</whiteSupported>
+                    <transparencySupported>false</transparencySupported>
+                    <scaleability>shrinkable</scaleability>
+                    <printableAlongWithPrintTypes>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAlongWithPrintTypes>
+                    <printableAbovePrintTypes>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAbovePrintTypes>
+                    <maxPrintColorLayers>3</maxPrintColorLayers>
+                </restrictions>
+                <price>
+                    <vatExcluded>3.00</vatExcluded>
+                    <vatIncluded>3.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+            </printType>
+            <printType weight="7.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10">
+                <name>Thermo-sublimation</name>
+                <description>The design is first printed onto transfer papers and then affixed to the cups. The cup and the design are then heated, causing a reaction in the sublimation-tint and resulting in an imprint on the cup. Thermosublimation printed products are both fully scratch and UV resistant and microwave and dishwasher safe.  </description>
+                <size unit="mm">
+                    <width>250.0</width>
+                    <height>100.0</height>
+                </size>
+                <dpi>400.0</dpi>
+                <colors/>
+                <restrictions>
+                    <colorSpace>cmyk</colorSpace>
+                    <whiteSupported>false</whiteSupported>
+                    <transparencySupported>true</transparencySupported>
+                    <scaleability>shrinkable</scaleability>
+                    <printableAlongWithPrintTypes>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAlongWithPrintTypes>
+                    <printableAbovePrintTypes>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAbovePrintTypes>
+                    <maxPrintColorLayers>3</maxPrintColorLayers>
+                </restrictions>
+                <price>
+                    <vatExcluded>3.00</vatExcluded>
+                    <vatIncluded>3.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+            </printType>
+            <printType weight="8.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21">
+                <name>Button Print</name>
+                <description>Printtype for Buttons</description>
+                <size unit="mm">
+                    <width>300.0</width>
+                    <height>300.0</height>
+                </size>
+                <dpi>400.0</dpi>
+                <colors/>
+                <restrictions>
+                    <colorSpace>cmyk</colorSpace>
+                    <whiteSupported>false</whiteSupported>
+                    <transparencySupported>true</transparencySupported>
+                    <scaleability>shrinkable</scaleability>
+                    <printableAlongWithPrintTypes>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAlongWithPrintTypes>
+                    <printableAbovePrintTypes>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAbovePrintTypes>
+                    <maxPrintColorLayers>3</maxPrintColorLayers>
+                </restrictions>
+                <price>
+                    <vatExcluded>3.00</vatExcluded>
+                    <vatIncluded>3.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+            </printType>
+            <printType weight="9.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20">
+                <name>Coupon</name>
+                <description>Coupon Printer</description>
+                <size unit="mm">
+                    <width>300.0</width>
+                    <height>300.0</height>
+                </size>
+                <dpi>300.0</dpi>
+                <colors/>
+                <restrictions>
+                    <colorSpace>rgb</colorSpace>
+                    <whiteSupported>true</whiteSupported>
+                    <transparencySupported>true</transparencySupported>
+                    <scaleability>shrinkable</scaleability>
+                    <printableAlongWithPrintTypes>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAlongWithPrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAlongWithPrintTypes>
+                    <printableAbovePrintTypes>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/1" id="1"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                        <printableAbovePrintType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    </printableAbovePrintTypes>
+                    <maxPrintColorLayers>3</maxPrintColorLayers>
+                </restrictions>
+                <price>
+                    <vatExcluded>0.00</vatExcluded>
+                    <vatIncluded>0.00</vatIncluded>
+                    <vat>0.00</vat>
+                    <currency xlink:href="http://www.spreadshirt.com/api/v1/currencies/3" id="3"/>
+                </price>
+            </printType>
+        </printTypes>
+    </payload>
+</response>

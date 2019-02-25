@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://api.spreadshirt.net">
+    <status>
+        <code>200</code>
+    </status>
+    <payload>
+        <fontFamilies sortOrder="default" sortField="default" count="56" limit="100" offset="0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies?fullData=true">
+            <fontFamily weight="1.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/38" id="38">
+                <name>Aktuelle</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="60">
+                        <name>Aktuelle</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/38/fonts/60" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="2.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/25" id="25">
+                <name>American Typewriter</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="46">
+                        <name>AmerType</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/25/fonts/46" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="3.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/50" id="50">
+                <name>Anzeigen</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="109">
+                        <name>AnzeigenGroteskLT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/50/fonts/109" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="4.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/5" id="5">
+                <name>Arial</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="15">
+                        <name>Arial</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/5/fonts/15" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="16">
+                        <name>Arial</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/5/fonts/16" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="17">
+                        <name>Arial</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/5/fonts/17" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="18">
+                        <name>Arial</name>
+                        <weight>bold</weight>
+                        <style>italic</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/5/fonts/18" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="5.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/51" id="51">
+                <name>Aspirin</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="104">
+                        <name>AspirinItalic</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/51/fonts/104" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="105">
+                        <name>AspirinBoldItalic</name>
+                        <weight>bold</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/51/fonts/105" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="106">
+                        <name>AspirinBold</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/51/fonts/106" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="77">
+                        <name>AspirinRegular</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/51/fonts/77" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="6.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/60" id="60">
+                <name>Atomatic</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="92">
+                        <name>AtomaticLT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/60/fonts/92" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="7.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/20" id="20">
+                <name>B790-Deco</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="41">
+                        <name>B790-Deco</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/20/fonts/41" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="8.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/52" id="52">
+                <name>Bello</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="78">
+                        <name>BelloScript</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/52/fonts/78" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="9.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/53" id="53">
+                <name>Beluga</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="79">
+                        <name>BelugaLTRegular</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/53/fonts/79" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="80">
+                        <name>BelugaLTItalic</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/53/fonts/80" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="10.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/39" id="39">
+                <name>Braille</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="61">
+                        <name>Braille</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/39/fonts/61" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="12.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/66" id="66">
+                <name>Caecilia</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="100">
+                        <name>PMNCaeciliaLTBoldItalic</name>
+                        <weight>bold</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/66/fonts/100" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="101">
+                        <name>PMNCaeciliaLTRegular</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/66/fonts/101" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="98">
+                        <name>PMNCaeciliaLTItalic</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/66/fonts/98" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="99">
+                        <name>PMNCaeciliaLTBold</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/66/fonts/99" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="13.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/31" id="31">
+                <name>Chinese Rocks</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="52">
+                        <name>ChineseRocks</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/31/fonts/52" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="14.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/9" id="9">
+                <name>City</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="26">
+                        <name>CityDMed</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/9/fonts/26" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="27">
+                        <name>CityDBol</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/9/fonts/27" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="15.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/3" id="3">
+                <name>Comic Sans</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="9">
+                        <name>Comic Sans MS</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/3/fonts/9" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="10">
+                        <name>Comic Sans MS</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/3/fonts/10" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="17.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/24" id="24">
+                <name>Cooper Black</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="107">
+                        <name>CooperBlackLTItalic</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/24/fonts/107" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="45">
+                        <name>CooperBlackLTRegular</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/24/fonts/45" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="19.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/18" id="18">
+                <name>Creampuff</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="39">
+                        <name>Creampuff</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/18/fonts/39" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="20.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/61" id="61">
+                <name>Cutter</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="93">
+                        <name>CutterLT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/61/fonts/93" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="21.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/54" id="54">
+                <name>Data Seventy</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="81">
+                        <name>DataSeventyCom</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/54/fonts/81" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="22.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/34" id="34">
+                <name>Desyrel</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="56">
+                        <name>Desyrel</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/34/fonts/56" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="23.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/8" id="8">
+                <name>Dom</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="22">
+                        <name>DomCasualBT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/8/fonts/22" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="23">
+                        <name>DomBoldBT</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/8/fonts/23" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="24">
+                        <name>DomDiagonalBT</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/8/fonts/24" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="25">
+                        <name>DomDiagonalBdBT</name>
+                        <weight>bold</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/8/fonts/25" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="24.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/55" id="55">
+                <name>Eurostile</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="82">
+                        <name>EurostileLTItalic</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/55/fonts/82" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="83">
+                        <name>EurostileLTBold</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/55/fonts/83" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="84">
+                        <name>EurostileLTBoldItalic</name>
+                        <weight>bold</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/55/fonts/84" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="85">
+                        <name>EurostileLTRegular</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/55/fonts/85" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="25.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/56" id="56">
+                <name>Freestyle</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="86">
+                        <name>FreestyleScriptLT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/56/fonts/86" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="26.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/7" id="7">
+                <name>Futura</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="20">
+                        <name>Futura Md BT</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/7/fonts/20" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="21">
+                        <name>Futura Md BT</name>
+                        <weight>bold</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/7/fonts/21" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="27.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/33" id="33">
+                <name>Gael A</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="55">
+                        <name>Gael A</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/33/fonts/55" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="28.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/21" id="21">
+                <name>Greasy Spoon</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="42">
+                        <name>GreasySpoonMenu</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/21/fonts/42" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="29.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/43" id="43">
+                <name>Gregs Hand</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="65">
+                        <name>GregsHand</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>25.4</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/43/fonts/65" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="30.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/42" id="42">
+                <name>Halloween</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="64">
+                        <name>Halloween</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>25.4</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/42/fonts/64" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="35.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/45" id="45">
+                <name>Hole Hearted Regular</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="68">
+                        <name>Hole-HeartedRegular</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>25.4</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/45/fonts/68" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="36.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/57" id="57">
+                <name>Jellybaby</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="87">
+                        <name>ITCJellybabyLT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/57/fonts/87" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="37.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/30" id="30">
+                <name>JP Gothic</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="51">
+                        <name>MS Gothic</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/30/fonts/51" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="38.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/29" id="29">
+                <name>JP Mincho</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="50">
+                        <name>MS Mincho</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/29/fonts/50" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="39.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/16" id="16">
+                <name>Kabel</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="36">
+                        <name>Kabel Ult BT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/16/fonts/36" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="40.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/40" id="40">
+                <name>Kids</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="62">
+                        <name>Kids</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/40/fonts/62" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="41.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/10" id="10">
+                <name>Letter Gothic</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="28">
+                        <name>LettrGoth12 BT</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/10/fonts/28" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="29">
+                        <name>LettrGoth12 BT</name>
+                        <weight>bold</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/10/fonts/29" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="43.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/62" id="62">
+                <name>Lomo Web Pixel</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="94">
+                        <name>LomoWebPixel</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/62/fonts/94" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="44.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/12" id="12">
+                <name>Machine</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="108">
+                        <name>MachineLTBold</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/12/fonts/108" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="31">
+                        <name>MachineLTRegular</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/12/fonts/31" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="45.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/19" id="19">
+                <name>Miniskip</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="40">
+                        <name>miniskip</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/19/fonts/40" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="46.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/63" id="63">
+                <name>MonotypeScript</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="95">
+                        <name>MonotypeScript</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/63/fonts/95" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="47.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/64" id="64">
+                <name>Old Town</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="96">
+                        <name>OldTowneLT-No536</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/64/fonts/96" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="48.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/65" id="65">
+                <name>Princetown</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="97">
+                        <name>PrincetownLetPlain</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/65/fonts/97" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="49.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/44" id="44">
+                <name>Santas Sleigh Full</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="66">
+                        <name>SantasSleighFull</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>31.75</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/44/fonts/66" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="67">
+                        <name>SantasSleighFullBold</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>31.75</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/44/fonts/67" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="50.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/27" id="27">
+                <name>Sherwood</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="48">
+                        <name>Sherwood</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/27/fonts/48" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="51.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/35" id="35">
+                <name>Signature</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="57">
+                        <name>Signature</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/35/fonts/57" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="52.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/58" id="58">
+                <name>Simran</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="88">
+                        <name>ITCSimran</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/58/fonts/88" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="53.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/13" id="13">
+                <name>Sonic</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="32">
+                        <name>Sonic XBd BT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/13/fonts/32" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="55.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/14" id="14">
+                <name>Square</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="33">
+                        <name>Square721 BT</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/14/fonts/33" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="56.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/67" id="67">
+                <name>Stencil</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="102">
+                        <name>StencilLT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/67/fonts/102" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="57.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/68" id="68">
+                <name>Stop</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="103">
+                        <name>Stop</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/68/fonts/103" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="58.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/26" id="26">
+                <name>Storybook</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="47">
+                        <name>Storybook</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/26/fonts/47" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="59.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/15" id="15">
+                <name>Swiss</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="35">
+                        <name>Swis721 BlkCn BT</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/15/fonts/35" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="60.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/41" id="41">
+                <name>TekniaGreek</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="63">
+                        <name>TekniaGreek</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>31.75</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/41/fonts/63" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+            <fontFamily weight="62.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/28" id="28">
+                <name>Trikot 3D</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="49">
+                        <name>Trikot3d</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>76.2</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/28/fonts/49" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="63.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/22" id="22">
+                <name>Trikot College</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="43">
+                        <name>TrikotCollege</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/22/fonts/43" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="64.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/23" id="23">
+                <name>Trikot Nr. 1</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="44">
+                        <name>TrikotNr1</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>48.6833</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/23/fonts/44" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="66.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/1" id="1">
+                <name>Verdana</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="1">
+                        <name>Verdana</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/1/fonts/1" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="2">
+                        <name>Verdana</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/1/fonts/2" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="3">
+                        <name>Verdana</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/1/fonts/3" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="4">
+                        <name>Verdana</name>
+                        <weight>bold</weight>
+                        <style>italic</style>
+                        <minimalSize>14.8167</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/1/fonts/4" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>true</deprecated>
+            </fontFamily>
+            <fontFamily weight="69.0" xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/fontFamilies/59" id="59">
+                <name>Zapf Chancery</name>
+                <printTypes>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/14" id="14"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/2" id="2"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/17" id="17"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/16" id="16"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/10" id="10"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/21" id="21"/>
+                    <printType xlink:href="http://www.spreadshirt.com/api/v1/shops/349066/printTypes/20" id="20"/>
+                </printTypes>
+                <fonts>
+                    <font id="89">
+                        <name>ZapfChanceryLTItalic</name>
+                        <weight>normal</weight>
+                        <style>italic</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/59/fonts/89" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="90">
+                        <name>ZapfChanceryLTBold</name>
+                        <weight>bold</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/59/fonts/90" mediaType="swf"/>
+                        </resources>
+                    </font>
+                    <font id="91">
+                        <name>ZapfChanceryLTRegular</name>
+                        <weight>normal</weight>
+                        <style>normal</style>
+                        <minimalSize>21.1667</minimalSize>
+                        <resources>
+                            <resource xlink:href="http://image.spreadshirt.com/image-server/v1/fontFamilies/59/fonts/91" mediaType="swf"/>
+                        </resources>
+                    </font>
+                </fonts>
+                <deprecated>false</deprecated>
+            </fontFamily>
+        </fontFamilies>
+    </payload>
+</response>
